@@ -1,15 +1,16 @@
 ---
 banner: /assets/images/hspomorze/banner.png
 categories:
-- event
-date: "2020-10-09T00:00:00Z"
+  - event
+date: 2020-10-09T00:00:00Z
 pinned: true
 redirect_from:
-- /hspomorze
+  - /hspomorze
 title: Ważna wiadomość dla społeczności hakerspejsowej!
+description: Zmiany w Hackerspace
 ---
 
-Po 3 latach współpracy z fundacją Code:Me społeczność projektu Hackerspace Trójmiasto staje się samodzielną organizacją - mamy zaszczyt ogłosić, że założyliśmy stowarzyszenie Hackerspace Pomorze!
+Po 3 latach współpracy z fundacją CODE:ME społeczność projektu Hackerspace Trójmiasto staje się samodzielną organizacją - mamy zaszczyt ogłosić, że założyliśmy stowarzyszenie Hackerspace Pomorze!
 
 Co to oznacza dla naszych członków i sympatyków? Jesteśmy teraz niezależną organizacją utrzymywaną całkowicie ze składek członkowskich, zmieniamy lokalizację, znajdziecie nas w lokalu Do Studzienki 28 (obok Wydział Elektroniki, Telekomunikacji i Informatyki PG). Mamy nowe logo i [fanpejdż](/facebook) - zapraszamy do lajkowania, wkrótce pojawią się tam nowe wydarzenia i warsztaty.  
 
