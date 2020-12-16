@@ -1,0 +1,5 @@
+backend:
+  name: github
+  repo: not7cd/black-sheep
+  branch: master
+
