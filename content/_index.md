@@ -19,4 +19,3 @@ Możesz zostać członkiem, ale przyjmujemy też datki -> [więcej(wsparcie);](/
 
 
 ## Co się dzieje?
-{% include posts.html %}

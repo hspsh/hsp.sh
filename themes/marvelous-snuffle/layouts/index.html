@@ -1,0 +1,23 @@
+{{ define "main" }}
+
+<main class="container">
+	<div class="brand">		
+		<div class="logo">
+			<img src="/assets/logo_accent.png">
+			<span><h1>Hackerspace Pomorze</h1></span>
+		</div>
+		<p class="slogan">Restartujemy Hackerspace. Nowa nazwa. Nowy adres. Ci sami ludzie.</p>
+	</div>
+	<div class="content">
+		{{ .Content }}
+
+		{{ range .Pages }}
+		<article>
+		  <h2>{{ .Title }}</h2>
+		  {{ .Content }}
+		</article>
+	  {{ end }}
+	</div>
+</main>
+
+{{ end }}
