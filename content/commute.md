@@ -1,5 +1,5 @@
 ---
-title: Miejsce
+title: Dojazd
 menu: header
 
 # odjazdoinator, its final form
