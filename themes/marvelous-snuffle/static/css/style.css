@@ -39,4 +39,12 @@ a:active { color: #0c99; }
 .container img { max-width: 100%; }
 main { width: 100%; }
 .center { text-align: center; }
+.action-btn {
+    display: flex;
+    border: 1px solid #ffffff;
+    background: #1b1b1b;
+    padding: 0.5em;
+    margin: 1em;
+    width: auto;
+}
 /*# sourceMappingURL=style.css.map */
