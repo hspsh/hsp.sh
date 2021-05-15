@@ -16,6 +16,3 @@ Najlepiej po prostu pogadaj z kimś z nas. Jeśli nie możesz porozmawiać to na
 
 ## Wsparcie
 Możesz zostać członkiem, ale przyjmujemy też datki -> [więcej(wsparcie);](/membership)
-
-
-## Co się dzieje?
