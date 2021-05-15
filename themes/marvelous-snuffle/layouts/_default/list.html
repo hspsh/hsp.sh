@@ -1,9 +1,11 @@
 {{ define "main" }}
+<main class="container">
   <h1>Posts</h1>
   {{ range .Pages }}
     <article>
       <h2>{{ .Title }}</h2>
       {{ .Content }}
     </article>
-  {{ end }}
+    {{ end }}
+  </main>
 {{ end }}
