@@ -24,22 +24,18 @@
     }
 
     .content {
-        background: #333;
+        background: #111;
     }
 
     footer {
         margin-top: 0em;
     }
 
-        {
-            {
-            /*  @media screen and (max-width: 400px) {
-    #map {
-        width: 100%
+
+    .leaflet-tile.leaflet-tile-loaded {
+        filter: invert(100%) grayscale(100%);
     }
-}  */
-        }
-    }
+
 </style>
 
 
@@ -54,8 +50,8 @@
 
 <script>
     window.loadMap = () => {
-        let map = L.map('map').setView([54.371, 18.611], 12);
-        L.tileLayer('https://stamen-tiles.a.ssl.fastly.net/toner/{z}/{x}/{y}.png', {
+        let map = L.map('map').setView([54.373, 18.611], 16);
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
             attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>'
         }).addTo(map);
 
