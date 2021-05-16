@@ -50,4 +50,8 @@ main { width: 100%; }
 .action-btn i {
     font-size: 3em;
 }
+
+.leaflet-tile.leaflet-tile-loaded {
+    filter: invert(75%);
+}
 /*# sourceMappingURL=style.css.map */
