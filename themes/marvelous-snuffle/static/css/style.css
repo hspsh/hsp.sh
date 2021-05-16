@@ -46,6 +46,11 @@ main { width: 100%; }
     padding: 0.5em;
     margin: 1em;
     width: auto;
+    text-decoration: none;
+}
+.action-btn:hover {
+    color: #0c9;
+    border-color: #0c9;
 }
 .action-btn i {
     font-size: 3em;
