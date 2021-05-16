@@ -10,10 +10,21 @@
         height: 100%;
     }
 
-    #content {
+    main {
         display: flex;
         height: 100%;
         width: 100%
+    }
+
+    .overlay {
+        position: absolute;
+        top: 0;
+        left: 0;
+        z-index: 314159;
+    }
+
+    .content {
+        background: #333;
     }
 
     footer {
@@ -83,14 +94,17 @@
 </div>
 
 <main id="map">
-    <div class="container content">
-        {{ .Content }}
+    <div class="overlay content">
+
+        <div class="container">
+            {{ .Content }}
+        </div>
     </div>
 </main>
 
 <script>
     window.loadMap = () => {
-        let map = L.map('content').setView([54.371, 18.611], 12);
+        let map = L.map('map').setView([54.371, 18.611], 12);
 
         L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
             attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>'
