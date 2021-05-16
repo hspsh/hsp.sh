@@ -1,7 +1,7 @@
 ---
 title: Dojazd
 menu: header
-
+layout: commute
 # odjazdoinator, its final form
 ---
 
