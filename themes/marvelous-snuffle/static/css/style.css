@@ -47,4 +47,7 @@ main { width: 100%; }
     margin: 1em;
     width: auto;
 }
+.action-btn i {
+    font-size: 3em;
+}
 /*# sourceMappingURL=style.css.map */
