@@ -1,4 +1,3 @@
-@import url("https://fonts.googleapis.com/css?family=Inconsolata");
 /* ============================================================= COLORS ** ============================================================= */
 header { padding: 1em 1em; }
 .nav img { height: 1em; float: left; }
@@ -27,8 +26,8 @@ footer .footer__notice p:last-of-type:after { content: none; }
 .brand .logo img { margin: 0 2em; max-width: 72px; border-radius: 72px; border-width: 3.6px; } }
 .content a { color: #0c9; }
 .contact p { display: flex; }
-.contact input, .contact textarea, .contact button { flex: 1; color: #ffffff; font-family: "Inconsolata", serif; border: 1px solid #ffffff; background: #1b1b1b; padding: 0.5em; width: auto; }
-* { font-family: "Inconsolata", serif; }
+.contact input, .contact textarea, .contact button { flex: 1; color: #ffffff; font-family: sans-serif; border: 1px solid #ffffff; background: #1b1b1b; padding: 0.5em; width: auto; }
+* { font-family: sans-serif; }
 body { background-color: #111111; color: #ffffff; margin: 0; display: flex; flex-direction: column; min-height: 100vh; background: url(/assets/home-bg.svg) #111111 no-repeat center center; background-size: 800px; fill: #212121; }
 a { color: #ffffff; text-decoration: underline; }
 a:hover { color: #0c9; }
