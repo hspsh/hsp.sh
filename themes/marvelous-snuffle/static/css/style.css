@@ -31,7 +31,7 @@ footer .footer__notice p:last-of-type:after { content: none; }
 body { background-color: #111111; color: #ffffff; margin: 0; display: flex; flex-direction: column; min-height: 100vh; background: url(/assets/home-bg.svg) #111111 no-repeat center center; background-size: 800px; fill: #212121; }
 a { color: #ffffff; text-decoration: underline; }
 a:hover { color: #0c9; }
-a:active { color: #0c99; }
+a:active { color: #0c9; }
 ::selection { background: #0c9; color: #ffffff; }
 ::-moz-selection { background: #0c9; color: #ffffff; }
 .container img { max-width: 100%; }
@@ -64,6 +64,12 @@ main {
 .action-btn i {
     font-size: 3em;
     display: block;
+}
+
+#door.action-btn  {
+    color: #1b1b1b;
+    border-color: #1b1b1b;
+    background-color: #0c9;
 }
 
 /*# sourceMappingURL=style.css.map */
