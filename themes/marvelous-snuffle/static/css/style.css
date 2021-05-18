@@ -34,9 +34,12 @@ a:hover { color: #0c9; }
 a:active { color: #0c99; }
 ::selection { background: #0c9; color: #ffffff; }
 ::-moz-selection { background: #0c9; color: #ffffff; }
-.container { max-width: 100ch; padding: 2ch; margin: auto; }
 .container img { max-width: 100%; }
-main { width: 100%; }
+main {
+    max-width: 70ch;
+    padding: 2ch;
+    margin: auto;
+}
 .center { text-align: center; }
 .action-buttons {
     display: flex;
