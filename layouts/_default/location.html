@@ -1,7 +1,27 @@
 {{ define "main" }}
+<style>
+main, header, footer {
+	z-index: 2;
+}
+canvas {
+	z-index: 1;
+}
+main {
+	background: #111;
+}
 
-<canvas id="canvas" style="z-index: -100;"></canvas>
-<main style="background: #111;">
+canvas, .grab {
+    cursor: -webkit-grab;
+    cursor: -moz-grab;
+  }
+  canvas:active, .grabbing {
+    cursor: -webkit-grabbing;
+    cursor: -moz-grabbing; 
+  }
+
+</style>
+<canvas id="canvas"></canvas>
+<main>
 	<div class="content">
 		{{ .Content }}
 	</div>
