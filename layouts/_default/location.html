@@ -1,11 +1,11 @@
 {{ define "main" }}
 
-<canvas id="canvas"></canvas>
-<main class="container">
+<canvas id="canvas" style="z-index: -100;"></canvas>
+<main style="background: #111;">
 	<div class="content">
 		{{ .Content }}
 	</div>
 </main>
-<script src="/js/bundle.js"></script>
+<script src="/js/panoLocation.js" defer></script>
 
 {{ end }}
