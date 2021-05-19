@@ -1,4 +1,4 @@
-window.fetch('https://whois.at.hsp.sh/api/now')
+window.fetch('https://status.hsp.sh/api/now')
   .then((response) => {
     if (response.status !== 200) {
       console.error('Whois connection failed. Status Code: ' +
@@ -7,7 +7,7 @@ window.fetch('https://whois.at.hsp.sh/api/now')
     }
 
     response.json().then((data) => {
-      if (data.headcount > 0) {
+      if (data.state.open === true) {
         const door = document.querySelector('#door')
         door.classList.add('open')
         door.setAttribute('title', `${data.users.join(', ')}`)
