@@ -1,28 +1,27 @@
 /* ============================================================= COLORS ** ============================================================= */
 :root{
-    --global-font-color:  #e0e0e0;
+    --body-color:  #e0e0e0;
     --global-button-background-color: #283747;
-    --background-color-2: #212121;
-    --global-border-color: var(--global-font-color);
-    --global-border: 1px solid var(--global-border-color);
-    --global-font-size: 13px;
-    --global-padding: 15px;
+    --global-border-color: var(--body-color);
+    --global-border: 1em solid var(--global-border-color);
+    --global-font-size: 13em;
+    --global-padding: 15em;
     --fill-color: var(--global-button-background-color);
-    --active-color: #0c99
+    --primary-color: #00cc99
 }
 header { padding: 1em 1em; }
 .nav img { height: 1em; float: left; }
 header nav { text-transform: lowercase; display: inline; }
-header nav a::after { content: " |"; color: var(--global-font-color); }
-header nav a:first-child::before { content: "[ "; color: var(--global-font-color); }
-header nav a:last-child::after { content: " ]"; color: var(--global-font-color); }
+header nav a::after { content: " |"; color: var(--body-color); }
+header nav a:first-child::before { content: "[ "; color: var(--body-color); }
+header nav a:last-child::after { content: " ]"; color: var(--body-color); }
 footer { font-weight: 100; font-size: var(--global-font-size); background-color: var(--global-button-background-color); margin-top: auto; }
 footer .footer__navigation { display: flex; align-items: center; }
 footer .footer__navigation .socials { margin-left: auto; }
 footer .footer__navigation nav > a { margin-left: 20px; }
 footer .footer__navigation a { text-decoration: none; }
 footer section { padding: 1em 3em; }
-footer .footer__notice { display: flex; flex-wrap: wrap; justify-content: center; background-color: var(--background-color-2); }
+footer .footer__notice { display: flex; flex-wrap: wrap; justify-content: center; }
 footer .footer__notice p { display: inline-block; padding-right: var(--global-padding); padding-left: var(--global-padding); }
 footer .footer__notice p:after { content: ""; position: absolute; height: var(--global-padding); width: 2px; background: var(--global-border-color); margin-left: 15px; }
 footer .footer__notice p:last-of-type:after { content: none; }
@@ -35,16 +34,16 @@ footer .footer__notice p:last-of-type:after { content: none; }
 .brand .logo img { max-width: 128px; margin: 0.67em 0 0; }
 @media screen and (max-width: 600px) { .brand .logo { flex-wrap: nowrap; }
 .brand .logo img { margin: 0 2em; max-width: 72px; border-radius: 72px; border-width: 3.6px; } }
-.content a { color: var(--global-font-color); }
+.content a { color: var(--body-color); }
 .contact p { display: flex; }
 .contact input, .contact textarea, .contact button { flex: 1; color: var(--global-border-color); font-family: sans-serif; border: var(--global-border); background: var(--global-button-background-color); padding: 0.5em; width: auto; }
 * { font-family: sans-serif; }
 body { background-color: var(--fill-color); color: var(--global-border-color); margin: 0; display: flex; flex-direction: column; min-height: 100vh; background: url(/assets/home-bg.svg) var(--fill-color) no-repeat center center; background-size: 800px; fill: var(--fill-color); }
 a { color: var(--global-border-color); text-decoration: underline; }
-a:hover { color: var(--global-font-color); }
-a:active { color: var(--active-color); }
-::selection { background: var(--global-font-color); color: var(--global-border-color); }
-::-moz-selection { background: var(--global-font-color); color: var(--global-border-color); }
+a:hover { color: var(--primary-color); }
+a:active { color: var(--primary-color); }
+::selection { background: var(--body-color); color: var(--global-border-color); }
+::-moz-selection { background: var(--body-color); color: var(--global-border-color); }
 .container { max-width: 100ch; padding: 2ch; margin: auto; }
 .container img { max-width: 100%; }
 main {
@@ -60,7 +59,7 @@ main {
 }
 .action-btn {
     display: block;
-    border: var(--global-border);
+    border: var(--primary-color);
     background: var(--global-button-background-color);
     padding: 0.5em;
     width: 100%;
@@ -70,8 +69,8 @@ main {
     grid-row: 1; */
 }
 .action-btn:hover {
-    color: var(--global-font-color);
-    border-color: var(--global-font-color);
+    color: var(--primary-color);
+    border-color: var(--primary-color);
 }
 .action-btn i {
     font-size: 3em;
@@ -79,9 +78,9 @@ main {
 }
 
 #door.action-btn.open  {
-    color: #1b1b1b;
-    border-color: #1b1b1b;
-    background-color: #0c9;
+    color: var(--global-border-color);
+    border-color: var(--global-border-color);
+    background-color: var(--primary-color);
 }
 
 /*# sourceMappingURL=style.css.map */
