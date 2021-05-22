@@ -1,5 +1,5 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseURL = "https://hsp.sh/"
+languageCode = "pl-pl"
+title = "Hackerspace Pomorze"
 
 theme = "marvelous-snuffle"

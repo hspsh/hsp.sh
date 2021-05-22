@@ -1,0 +1,56 @@
+[[redirects]]   
+  from = "/calendar.ics"
+  to = "https://wydarzenia.hsp.sh/@hs/feed/ics"
+  
+[[redirects]]   
+  from = "/calendar.atom"
+  to = "https://wydarzenia.hsp.sh/@hs/feed/atom"
+
+[[redirects]]   
+  from = "/events/*"
+  to = "/posts"
+
+[[redirects]]   
+  from = "/partners"
+  to = "/membership"
+
+[[redirects]]   
+  from = "/join"
+  to = "/membership"
+
+[[redirects]]   
+  from = "/donate"
+  to = "/membership"
+  
+[[redirects]] 
+  from = "/facebook"
+  to = "https://www.facebook.com/Hackerspace-Pomorze-103254931521373/"
+  
+[[redirects]]   
+  from = "/twitter"
+  to = "https://twitter.com/hspsh"
+  
+[[redirects]]   
+  from = "/github"
+  to = "https://github.com/hspsh"
+
+[[redirects]]
+  from = "/workadventure"
+  to = "https://play.workadventu.re/_/global/hspsh.github.io/hspVenture/map.json"
+  
+[[redirects]]
+  from = "/jitsi"
+  to = "https://meet.jit.si/hsp.sh"
+
+[[redirects]]
+  from = "/forum"
+  to = "https://forum.hsp.sh"
+
+[[redirects]]
+  from = "/slack"
+  to = "https://join.slack.com/t/hs3city/shared_invite/zt-kstnlyol-AjDRGHUqfK1GVYvi99G47g"
+
+[[headers]]
+  for = "/.well-known/*"
+    [headers.values]
+    Access-Control-Allow-Origin = "*"

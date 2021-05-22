@@ -78,4 +78,10 @@ main {
     display: block;
 }
 
+#door.action-btn.open  {
+    color: #1b1b1b;
+    border-color: #1b1b1b;
+    background-color: #0c9;
+}
+
 /*# sourceMappingURL=style.css.map */

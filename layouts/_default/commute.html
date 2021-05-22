@@ -10,12 +10,6 @@
         height: 100%;
     }
 
-    main {
-        display: flex;
-        height: 100%;
-        width: 100%
-    }
-
     .overlay {
         position: absolute;
         top: 0;
@@ -31,22 +25,21 @@
         margin-top: 0em;
     }
 
+    #map {
+        width: auto;
+        height: 100%;
+      }
 
     .leaflet-tile.leaflet-tile-loaded {
         filter: invert(100%) grayscale(100%) contrast(120%);
     }
 
 </style>
-
-
-<main id="map">
-    <div class="overlay content">
-
-        <div class="container">
-            {{ .Content }}
-        </div>
-    </div>
+<main>
+    <h1>Dojazd</h1>
+    {{ .Content }}
 </main>
+<div id="map"></div>
 
 <script>
     window.loadMap = () => {
