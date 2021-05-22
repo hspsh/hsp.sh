@@ -1,13 +1,13 @@
 /* ============================================================= COLORS ** ============================================================= */
 :root{
     --body-color:  #e0e0e0;
-    --global-button-background-color: #283747;
+    --global-background-color: #283747;
+    --primary-color: #00cc99;
     --global-border-color: var(--body-color);
     --global-border: 1em solid var(--global-border-color);
     --global-font-size: 13em;
     --global-padding: 15em;
-    --fill-color: var(--global-button-background-color);
-    --primary-color: #00cc99
+    --fill-color: var(--global-background-color);
 }
 header { padding: 1em 1em; }
 .nav img { height: 1em; float: left; }
@@ -15,7 +15,7 @@ header nav { text-transform: lowercase; display: inline; }
 header nav a::after { content: " |"; color: var(--body-color); }
 header nav a:first-child::before { content: "[ "; color: var(--body-color); }
 header nav a:last-child::after { content: " ]"; color: var(--body-color); }
-footer { font-weight: 100; font-size: var(--global-font-size); background-color: var(--global-button-background-color); margin-top: auto; }
+footer { font-weight: 100; font-size: var(--global-font-size); background-color: var(--global-background-color); margin-top: auto; }
 footer .footer__navigation { display: flex; align-items: center; }
 footer .footer__navigation .socials { margin-left: auto; }
 footer .footer__navigation nav > a { margin-left: 20px; }
@@ -34,16 +34,16 @@ footer .footer__notice p:last-of-type:after { content: none; }
 .brand .logo img { max-width: 128px; margin: 0.67em 0 0; }
 @media screen and (max-width: 600px) { .brand .logo { flex-wrap: nowrap; }
 .brand .logo img { margin: 0 2em; max-width: 72px; border-radius: 72px; border-width: 3.6px; } }
-.content a { color: var(--body-color); }
+.content a { color: var(--primary-color); }
 .contact p { display: flex; }
-.contact input, .contact textarea, .contact button { flex: 1; color: var(--global-border-color); font-family: sans-serif; border: var(--global-border); background: var(--global-button-background-color); padding: 0.5em; width: auto; }
+.contact input, .contact textarea, .contact button { flex: 1; color: var(--global-border-color); font-family: sans-serif; border: var(--global-border); background: var(--global-background-color); padding: 0.5em; width: auto; }
 * { font-family: sans-serif; }
 body { background-color: var(--fill-color); color: var(--global-border-color); margin: 0; display: flex; flex-direction: column; min-height: 100vh; background: url(/assets/home-bg.svg) var(--fill-color) no-repeat center center; background-size: 800px; fill: var(--fill-color); }
 a { color: var(--global-border-color); text-decoration: underline; }
 a:hover { color: var(--primary-color); }
 a:active { color: var(--primary-color); }
-::selection { background: var(--body-color); color: var(--global-border-color); }
-::-moz-selection { background: var(--body-color); color: var(--global-border-color); }
+::selection { background: var(--primary-color); color: var(--global-border-color); }
+::-moz-selection { background: var(--primary-color); color: var(--global-border-color); }
 .container { max-width: 100ch; padding: 2ch; margin: auto; }
 .container img { max-width: 100%; }
 main {
@@ -60,7 +60,7 @@ main {
 .action-btn {
     display: block;
     border: var(--primary-color);
-    background: var(--global-button-background-color);
+    background: var(--global-background-color);
     padding: 0.5em;
     width: 100%;
     text-decoration: none;
