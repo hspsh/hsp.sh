@@ -5,14 +5,16 @@ menus: header
 url: /contact
 ---
 
-Jest też kanał IRC na którym ktoś czasem odpowiada. Połącz się z #hackerspace-pomorze na [freenode.net](https://freenode.net).  
-Jeśli nie dość Ci alternatywnych sposobów komunikacji, to jest jeszcze kanał matrix i inne dziwności, ale o tym już na [stronie wiki](https://wiki.hsp.sh/komunikator).
+# Kontakt
 
-[kontakt@pomorze.hackerspace.pl](mailto:kontakt@pomorze.hackerspace.pl?Subject=Strona%20HSP%20kontakt)
+W sprawach wszelkich, i po najszybszą odpowiedź, maile proszę kierować na:
+`kontakt@pomorze.hackerspace.pl`
 
-## Adres Fizyczny
+## Zarząd
 
-Do Studzienki 28, 80-233 Gdańsk, żółta brama wjazdowa do warsztatu.
-[9HQJ+VM Gdańsk, Polska](https://plus.codes/9F6W9HQJ+VM)
+Sprawy do zarządu stowarzyszenia kierować na adres:
+`zarzad@pomorze.hackerspace.pl`
 
-{% include location-map.html %}
+## Prosicie się o kłopoty!
+
+`abuse@pomorze.hackerspace.pl`
