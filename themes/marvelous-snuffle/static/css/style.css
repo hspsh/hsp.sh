@@ -104,6 +104,7 @@ nav {
     font-size: 1rem;
     line-height: 2;
     padding: 1rem 0;
+    text-align: center;
 }
 
 nav a {
@@ -484,4 +485,10 @@ pre code {
     background: none;
     margin: 0;
     padding: 0;
+}
+h6 {
+    text-align: center;
+}
+h1 {
+    text-align: center;
 }
