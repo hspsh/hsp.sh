@@ -481,3 +481,28 @@ h6 {
 h1 {
     text-align: center;
 }
+
+/* Custom styling */
+
+.action-buttons {
+    display: flex;
+    flex-direction: row;
+    gap: 1em;
+}
+.action-btn {
+    display: block;
+    border: 1px solid var(--preformatted);
+    padding: 0.5em;
+    width: 100%;
+    text-decoration: none;
+    text-align: center;
+}
+
+.action-btn i {
+    font-size: 3em;
+    display: block;
+}
+
+#door.action-btn.open  {
+    background-color: var(--accent-light);
+}
