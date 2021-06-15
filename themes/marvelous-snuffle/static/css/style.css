@@ -504,5 +504,7 @@ h1 {
 }
 
 #door.action-btn.open  {
-    background-color: var(--accent-light);
+    color: var(--accent-light);
+    border-color: var(--accent-light);
+    background-color: var(--accent-bg);
 }

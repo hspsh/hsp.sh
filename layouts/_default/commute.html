@@ -17,9 +17,6 @@
         z-index: 314159;
     }
 
-    .content {
-        background: #111;
-    }
 
     footer {
         margin-top: 0em;
@@ -31,7 +28,12 @@
       }
 
     .leaflet-tile.leaflet-tile-loaded {
-        filter: invert(100%) grayscale(100%) contrast(120%);
+        filter: grayscale(100%) contrast(120%);
+    }
+    @media (prefers-color-scheme: dark) {
+        .leaflet-tile.leaflet-tile-loaded {
+            filter: invert(100%) grayscale(100%) contrast(120%);
+        }
     }
 
 </style>
