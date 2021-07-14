@@ -545,6 +545,10 @@ h1 {
     padding     : 1rem 1rem;
 }
 
+.header-nav nav a.active {
+    background-color: var(--bg);
+}
+
 /* Mobile menu */
 
 .header-nav input {
