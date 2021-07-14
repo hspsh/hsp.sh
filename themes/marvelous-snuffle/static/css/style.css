@@ -574,7 +574,7 @@ h1 {
     }
 
     .mobile-nav-close {
-        width: auto;
+        cursor  : pointer;
     }
 
     .mobile-navOpen:hover .open:before {
@@ -587,6 +587,7 @@ h1 {
 
     .mobile-nav {
         position  : fixed;
+
         width     : 100vw;
         height    : 100vh;
         top       : 0;
@@ -594,26 +595,28 @@ h1 {
         background: var(--accent-bg);
     }
 
-    nav.mobile-nav {
+    .mobile-nav nav{
+    
         flex-direction: column;
     }
 
 
     .mobile-navEffects {
+        z-index: 10;
         opacity   : 0;
         visibility: hidden;
-        transition: opacity 0.5s, visibility 0.5s;
+        /* transition: opacity 0.5s, visibility 0.5s; */
     }
 
     .mobile-navEffects ul {
         transform : translateY(0%);
-        transition: all 0.5s;
+        /* transition: all 0.5s; */
     }
 
     #mobile-navToggle:checked~.mobile-navEffects {
         opacity   : 1;
         visibility: visible;
-        transition: opacity 0.5s;
+        /* transition: opacity 0.5s; */
     }
 
     #mobile-navToggle:checked~.mobile-navEffects ul {

@@ -5,13 +5,14 @@
     <label for="mobile-navToggle" class="mobile-navOpen">
         Menu
     </label>
-
-    <nav class="mobile-nav mobile-navEffects">
-        <label class="mobile-nav-close"  for="mobile-navToggle">Zamknij</label>
-        {{- $currentPage := . -}}
-        {{- range .Site.Menus.main -}}
-        <a class="sidebar-nav-item{{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} active{{end}}" href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a>
-        {{- end }}
-    </nav>
+    <div class="mobile-nav mobile-navEffects">
+        <nav class="">
+            <label class="mobile-nav-close"  for="mobile-navToggle">Zamknij</label>
+            {{- $currentPage := . -}}
+            {{- range .Site.Menus.main -}}
+            <a class="sidebar-nav-item{{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} active{{end}}" href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a>
+            {{- end }}
+        </nav>
+    </div>
 </div>
 </header>
