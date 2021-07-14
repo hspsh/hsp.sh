@@ -1,6 +1,8 @@
 ---
-title: Wydarzenia
-menus: header
+title: Posty
+menu:
+    main:
+        weight: 10
 url: /posts
 ---
 

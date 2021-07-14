@@ -1,5 +1,8 @@
 ---
-title: kalendarz
+title: Kalendarz
+menu:
+    main:
+        weight: 15
 permalink: /calendar/
 url: /calendar
 ---

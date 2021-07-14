@@ -1,5 +1,9 @@
 ---
 title: Home
+menu:
+    main:
+        name: Główna
+        weight: -100
 url: /index
 ---
 ## Co to hackerspace?

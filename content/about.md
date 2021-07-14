@@ -1,7 +1,9 @@
 ---
-title: o nas
+title: O nas
+menu:
+    main:
+        weight: 3
 permalink: /about/
-menus: header
 url: /about
 ---
 

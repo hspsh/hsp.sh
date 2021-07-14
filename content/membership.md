@@ -1,7 +1,9 @@
 ---
-title: członkostwo
+title: Członkostwo
+menu:
+    main:
+        weight: 20
 permalink: /membership/
-menus: header
 url: /membership
 ---
 

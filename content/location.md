@@ -1,6 +1,8 @@
 ---
 title: Miejsce
-menu: header
+menu:
+    main:
+        weight: 10
 layout: location
 ---
 

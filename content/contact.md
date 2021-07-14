@@ -1,7 +1,9 @@
 ---
-title: kontakt
+title: Kontakt
+menu:
+    main:
+        weight: 100
 permalink: /contact/
-menus: header
 url: /contact
 ---
 
