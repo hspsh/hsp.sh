@@ -108,7 +108,7 @@ nav {
     text-align : center;
 }
 
-nav a{
+nav a, .mobile-nav-close {
     margin         : 1rem 1rem 0 0;
     border         : 1px solid var(--border);
     color          : var(--text) !important;
@@ -537,10 +537,115 @@ h1 {
     text-align : center;
 }
 
-.header-nav nav a {
-    flex: 2 1 auto;
-    margin: 0;
-    border: none;
+.header-nav nav a, .mobile-nav-close  {
+    flex        : 2 1 auto;
+    margin      : 0;
+    border      : none;
     border-right: 1px solid var(--border);
-    padding: 1rem 1rem;
+    padding     : 1rem 1rem;
+}
+
+/* Mobile menu */
+
+.header-nav input {
+    display: none;
+}
+
+.mobile-navOpen,
+.mobile-nav-close {
+    display: none;
+}
+
+@media (max-width: 800px) {
+
+    .header-nav nav a, .mobile-nav-close {
+        flex   : 0 1 auto;
+        display: inline-block;
+        border: none;
+        border-bottom: 1px solid var(--border);
+    }
+
+    .mobile-navOpen {
+        height  : 2rem;
+        display : block;
+        padding : 1rem;
+        cursor  : pointer;
+        /* float: right; */
+    }
+
+    .mobile-nav-close {
+        width: auto;
+    }
+
+    .mobile-navOpen:hover .open:before {
+        top: -9px;
+    }
+
+    .mobile-navOpen:hover .open:after {
+        top: 5px;
+    }
+
+    .mobile-nav {
+        position  : fixed;
+        width     : 100vw;
+        height    : 100vh;
+        top       : 0;
+        left      : 0;
+        background: var(--accent-bg);
+    }
+
+    nav.mobile-nav {
+        flex-direction: column;
+    }
+
+
+    .mobile-navEffects {
+        opacity   : 0;
+        visibility: hidden;
+        transition: opacity 0.5s, visibility 0.5s;
+    }
+
+    .mobile-navEffects ul {
+        transform : translateY(0%);
+        transition: all 0.5s;
+    }
+
+    #mobile-navToggle:checked~.mobile-navEffects {
+        opacity   : 1;
+        visibility: visible;
+        transition: opacity 0.5s;
+    }
+
+    #mobile-navToggle:checked~.mobile-navEffects ul {
+        opacity: 1;
+    }
+
+    #mobile-navToggle:checked~.mobile-navOpen .open {
+        background-color: transparent;
+    }
+
+    #mobile-navToggle:checked~.mobile-navOpen .open:before {
+        content         : "";
+        background-color: white;
+        transform       : rotate(45deg);
+        /* position     : absolute;
+    top                 : 0;
+    right               : 0;
+    z-index             : 1; */
+    }
+
+    #mobile-navToggle:checked~.mobile-navOpen .open:after {
+        content         : "";
+        background-color: white;
+        transform       : rotate(-45deg);
+        /* position     : relative;
+    top                 : 0;
+    right               : 0;
+    z-index             : 1; */
+    }
+
+    #mobile-navToggle:not(:checked)~.mobile-navEffects ul {
+        transform: translateY(-30%);
+    }
+
 }
