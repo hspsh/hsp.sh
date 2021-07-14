@@ -19,7 +19,7 @@
     --accent-bg: #F5F7FF;
     --text: #212121;
     --text-light: #585858;
-    --border: #D8DAE1;
+    --border: var(--text);
     --accent: #0D47A1;
     --accent-light: #90CAF9;
     --code: #D81B60;
@@ -35,7 +35,7 @@
         --accent-bg: #2B2B2B;
         --text: #DCDCDC;
         --text-light: #ABABAB;
-        --border: #666;
+        --border: var(--text);
         --accent: #FFB300;
         --accent-light: #FFECB3;
         --code: #F06292;
@@ -487,7 +487,8 @@ h1 {
 .action-buttons {
     display: flex;
     flex-direction: row;
-    gap: 1em;
+    grid-gap: 1rem;
+    gap: 1rem;
 }
 .action-btn {
     display: block;
@@ -507,4 +508,29 @@ h1 {
     color: var(--accent-light);
     border-color: var(--accent-light);
     background-color: var(--accent-bg);
+}
+
+
+
+/* Format navigation */
+.header-nav{
+    padding: 0;
+}
+
+.header-nav nav {
+    display: flex;
+    width: 100%;
+    overflow: auto;
+    font-size: 1rem;
+    line-height: 2;
+    padding: 0 0;
+    text-align: center;
+}
+
+.header-nav nav a {
+    flex: 2 1 auto;
+    margin: 0;
+    border: none;
+    border-right: 1px solid var(--border);
+    padding: 1rem 1rem;
 }

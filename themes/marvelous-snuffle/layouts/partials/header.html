@@ -1,11 +1,8 @@
-<header>
-    <div class="nav">
-        <nav>
-            {{ $currentPage := . }}
-    {{ range .Site.Menus.main }}
-    <a class="sidebar-nav-item{{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} active{{end}}" href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a>
-    {{ end }}
-         </nav>
-
-    </div>
+<header class="header-nav">
+    <nav>
+    {{- $currentPage := . -}}
+    {{- range .Site.Menus.main -}}
+        <a class="sidebar-nav-item{{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} active{{end}}" href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a>
+    {{- end }}
+    </nav>
 </header>
