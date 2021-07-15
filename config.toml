@@ -3,3 +3,11 @@ languageCode = "pl-pl"
 title = "Hackerspace Pomorze"
 
 theme = "marvelous-snuffle"
+
+[menu]
+
+  [[menu.main]]
+    identifier = "Blog"
+    name = "Blog"
+    url = "/blog/"
+    weight = 15
