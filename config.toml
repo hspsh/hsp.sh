@@ -4,6 +4,8 @@ title = "Hackerspace Pomorze"
 
 theme = "marvelous-snuffle"
 
+[params]
+license = "CC-BY-SA"
 
 [menu]
 
