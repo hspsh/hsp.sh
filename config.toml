@@ -2,7 +2,8 @@ baseURL = "https://hsp.sh/"
 languageCode = "pl-pl"
 title = "Hackerspace Pomorze"
 
-theme = "black-sheep"
+theme = "marvelous-snuffle"
+
 
 [menu]
 
