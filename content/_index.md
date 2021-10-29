@@ -22,3 +22,7 @@ Najlepiej pogadaj z kimś z nas. Jeśli nie możesz porozmawiać to napisz na Sl
 
 
 {{< memberCall >}}
+
+## Serwisy społecznościowe
+
+{{< socials >}}
