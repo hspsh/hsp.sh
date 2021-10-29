@@ -1,11 +1,12 @@
 baseURL = "https://hsp.sh/"
 languageCode = "pl-pl"
 title = "Hackerspace Pomorze"
+copyright = "CC-BY-SA"
 
 theme = "marvelous-snuffle"
 
 [params]
-license = "CC-BY-SA"
+description = "Yeee"
 
 [menu]
 
