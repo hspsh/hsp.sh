@@ -19,4 +19,6 @@ Do Studzienki 28, 80-227
 Najlepiej pogadaj z kimś z nas. Jeśli nie możesz porozmawiać to napisz na Slacku lub Forum. Jeśli nie masz dostępu do naszego Slacka to napisz e-mali na [kontakt@pomorze.hackerspace.pl](mailto:kontakt@pomorze.hackerspace.pl) -> [więcej(kontakt);](/contact)
 
 ## Wsparcie
-Możesz zostać członkiem, ale przyjmujemy też datki -> [więcej(wsparcie);](/membership)
+
+
+{{< memberCall >}}
