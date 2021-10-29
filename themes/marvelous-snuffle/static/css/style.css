@@ -1,4 +1,51 @@
 /* ============================================================= COLORS ** ============================================================= */
+:root {
+
+    /* Set sans-serif & mono fonts */
+    --sans-font: -apple-system, BlinkMacSystemFont, "Avenir Next", Avenir, "Nimbus Sans L", Roboto, Noto, "Segoe UI", Arial, Helvetica, "Helvetica Neue", sans-serif;
+    --mono-font: Consolas, Menlo, Monaco, "Andale Mono", "Ubuntu Mono", monospace;
+
+    /* Body font size. By default, effectively 18.4px, based on 16px as 'root em' */
+    --base-fontsize: 1.15rem;
+
+    /* Major third scale progression - see https://type-scale.com/ */
+    --header-scale: 1.25;
+
+    /* Line height is set to the "Golden ratio" for optimal legibility */
+    --line-height: 1.618;
+
+    /* Default (dark) theme */
+    --bg          : #111;
+    --accent-bg   : #1b1b1b;
+    --text        : #FFF;
+    --text-light  : #cccccc;
+    --border      : var(--text);
+    --accent      : #0c9;
+    --accent-light: rgb(113, 207, 184);
+    --code        : #F06292;
+    --preformatted: #CCC;
+    --disabled    : #111;
+    --marked      : #FFDD33;
+}
+
+/* Dark theme */
+/* @media (prefers-color-scheme: dark) {
+    :root {
+        --bg          : #212121;
+        --accent-bg   : #2B2B2B;
+        --text        : #DCDCDC;
+        --text-light  : #ABABAB;
+        --border      : var(--text);
+
+    }
+
+    img,
+    video {
+        opacity: .6;
+    }
+} */
+
+
 header {
     padding: 1em 1em;
 }
@@ -36,7 +83,7 @@ header nav a:last-child::after {
 footer {
     font-weight     : 100;
     font-size       : 13px;
-    background-color: #1b1b1b;
+    background-color: var(--accent-bg);
     margin-top      : auto;
 }
 
@@ -79,7 +126,7 @@ footer .footer__notice p:after {
     position   : absolute;
     height     : 15px;
     width      : 2px;
-    background : #ffffff;
+    background : var(--text);
     margin-left: 15px;
 }
 
@@ -97,7 +144,7 @@ footer .footer__notice p:last-of-type:after {
 }
 
 .alert-danger {
-    background-color: #111111;
+    background-color: var(--bg);
     background-image: linear-gradient(135deg, rgba(0, 204, 153, 0.15) 25%, rgba(0, 204, 153, 0.05) 25%, rgba(0, 204, 153, 0.05) 50%, rgba(0, 204, 153, 0.15) 50%, rgba(0, 204, 153, 0.15) 75%, rgba(0, 204, 153, 0.05) 75%, rgba(0, 204, 153, 0.05) 100%);
     background-size : 56.57px 56.57px;
 }
@@ -161,10 +208,10 @@ footer .footer__notice p:last-of-type:after {
 .contact textarea,
 .contact button {
     flex       : 1;
-    color      : #ffffff;
+    color      : var(--text);
     font-family: sans-serif;
-    border     : 1px solid #ffffff;
-    background : #1b1b1b;
+    border     : 1px solid var(--text);
+    background : var(--accent-bg);
     padding    : 0.5em;
     width      : auto;
 }
@@ -174,19 +221,19 @@ footer .footer__notice p:last-of-type:after {
 }
 
 body {
-    background-color: #111111;
-    color           : #ffffff;
+    background-color: var(--bg);
+    color           : var(--text);
     margin          : 0;
     display         : flex;
     flex-direction  : column;
     min-height      : 100vh;
-    background      : url(/assets/home-bg.svg) #111111 no-repeat center center;
+    background      : url(/assets/home-bg.svg) var(--bg) no-repeat center center;
     background-size : 800px;
     fill            : #212121;
 }
 
 a {
-    color          : #ffffff;
+    color          : var(--text);
     text-decoration: underline;
 }
 
@@ -200,12 +247,12 @@ a:active {
 
 ::selection {
     background: #0c9;
-    color     : #ffffff;
+    color     : var(--text);
 }
 
 ::-moz-selection {
     background: #0c9;
-    color     : #ffffff;
+    color     : var(--text);
 }
 
 .container img {
@@ -230,8 +277,8 @@ main {
 
 .action-btn {
     display        : block;
-    border         : 1px solid #ffffff;
-    background     : #1b1b1b;
+    border         : 1px solid var(--text);
+    background     : var(--accent-bg);
     padding        : 0.5em;
     width          : 100%;
     text-decoration: none;
@@ -251,8 +298,8 @@ main {
 }
 
 #door.action-btn.open {
-    color           : #1b1b1b;
-    border-color    : #1b1b1b;
+    color           : var(--accent-bg);
+    border-color    : var(--accent-bg);
     background-color: #0c9;
 }
 
