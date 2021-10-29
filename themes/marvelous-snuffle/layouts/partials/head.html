@@ -3,6 +3,17 @@
 <meta name="description" content="{{ .Site.Params.description }}">
 
 
+<!-- TODO(not7cd): add parametrizable banner -->
+<meta property="og:url" content="{{ .Site.BaseURL }}{{ .Permalink }}">
+<meta property="og:title" content="{{ .Title }} &ndash; {{ .Site.Title }}">
+<meta property="og:description" content="{{ .Site.Params.description }}">
+<meta property="og:image" content="{{ .Site.BaseURL }}/assets/logo_accent.png">
+
+<meta property="twitter:title" content="{{ .Title }} &ndash; {{ .Site.Title }}">
+<meta property="twitter:description" content="{{ .Site.Params.description }}">
+<meta property="twitter:image" content="{{ .Site.BaseURL }}/assets/logo_accent.png">
+<meta property="twitter:card" content="summary">
+
 <link rel="stylesheet" href="/css/style.css">
 <link rel="stylesheet" href="https://maxst.icons8.com/vue-static/landings/line-awesome/line-awesome/1.3.0/css/line-awesome.min.css">
 
