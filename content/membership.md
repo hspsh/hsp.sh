@@ -14,14 +14,12 @@ Członkostwo również wiąże się z obowiązkiem wsparciem Stowarzyszenia w fo
 
 Aby uzyskać członkostwo, należy:
 
-1. Wypełnić deklarację członkowską.
+1. Wypełnić [deklarację członkowską](https://nc.hsp.sh/index.php/s/gZGb6Fjj99cnySo/download).
 2. Zebrać 3 okejki od członków.
 3. Dostarczyć deklarację do członka Zarządu (@amadeusz, @hamsterking, @yasiu, @Jogurt) rozpoczynając oficjalny proces przyjęcia do stowarzyszenia.
 4. Członkiem zostaje się po akceptacji Zarządu, bez sprzeciwu członków, i opłaceniu składki.  
     - Tydzień przed głosowaniem Zarząd informuje członków HSP o kandydacie czekając na potencjalne obiekcje.
 5. Okres przejściowy - klucze do lokalu można uzyskać najwcześniej miesiąc po złożeniu deklaracji członkowskiej na ręce członka Zarządu.
-
-[Pobierz deklarację członkowską](https://nc.hsp.sh/index.php/s/gZGb6Fjj99cnySo/download)
 
 Jeśli masz firmę lub fajnego szefa, który potencjalnie chciałby nas wesprzeć, daj nam znać, jesteśmy otwarci na współpracę.
 
