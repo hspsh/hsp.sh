@@ -57,13 +57,13 @@ header {
 
 header nav {
     text-transform         : lowercase;
-    display                : inline a;
+    display                : inline;
     display-color          : white;
     display-text-decoration: none !important;
 }
 
 header nav a::after {
-    content: "\00a0|";
+    content: "\00a0|\00a0";
     color  : #0c9;
     display: inline-block;
 }
@@ -227,7 +227,6 @@ body {
     display         : flex;
     flex-direction  : column;
     min-height      : 100vh;
-    background      : url(/assets/home-bg.svg) var(--bg) no-repeat center center;
     background-size : 800px;
     fill            : #212121;
 }

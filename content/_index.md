@@ -7,7 +7,7 @@ menu:
 url: /index
 ---
 ## Co to hackerspace?
-Hackerspace to społeczność i przestrzeń pasjonatów technologii -> [więcej(o_nas);](/about)
+Hackerspace to społeczność i przestrzeń pasjonatów technologii -> [więcej](/about)
 
 ## Wsparcie
 
