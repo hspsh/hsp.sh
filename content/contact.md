@@ -14,3 +14,11 @@ W sprawach wszelkich, i po najszybszą odpowiedź, maile proszę kierować na:
 
 Sprawy do zarządu stowarzyszenia kierować na adres:
 `zarzad@pomorze.hackerspace.pl`
+
+## Dane
+
+STOWARZYSZENIE HACKERSPACE POMORZE
+
+KRS 0000840805  
+NIP 5842793446  
+REGON 386066132  
