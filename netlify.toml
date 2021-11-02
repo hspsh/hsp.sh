@@ -1,22 +1,9 @@
-[[redirects]]   
-  from = "/calendar.ics"
-  to = "https://wydarzenia.hsp.sh/@hs/feed/ics"
-  
-[[redirects]]   
-  from = "/calendar.atom"
-  to = "https://wydarzenia.hsp.sh/@hs/feed/atom"
+[[headers]]
+  for = "/.well-known/*"
+    [headers.values]
+    Access-Control-Allow-Origin = "*"
 
-[[redirects]]   
-  from = "/events/*"
-  to = "/posts"
-
-[[redirects]]   
-  from = "/partners"
-  to = "/membership"
-
-[[redirects]]   
-  from = "/join"
-  to = "/membership"
+# convenience redirects
 
 [[redirects]]   
   from = "/donate"
@@ -48,9 +35,34 @@
 
 [[redirects]]
   from = "/slack"
-  to = "https://join.slack.com/t/hs3city/shared_invite/zt-kstnlyol-AjDRGHUqfK1GVYvi99G47g"
+  to = "https://forum.hsp.sh/t/zmiana-komunikatora/421"
+ 
+[[redirects]]
+  from = "/discord"
+  to = "https://discord.gg/2VZfQVejVP"
 
-[[headers]]
-  for = "/.well-known/*"
-    [headers.values]
-    Access-Control-Allow-Origin = "*"
+[[redirects]]   
+  from = "/calendar.ics"
+  to = "https://wydarzenia.hsp.sh/@hs/feed/ics"
+  
+[[redirects]]   
+  from = "/calendar.atom"
+  to = "https://wydarzenia.hsp.sh/@hs/feed/atom"
+
+# legacy stuff
+
+[[redirects]]   
+  from = "/events/*"
+  to = "/posts"
+
+[[redirects]]   
+  from = "/posts"
+  to = "/blog"
+
+[[redirects]]   
+  from = "/partners"
+  to = "/membership"
+
+[[redirects]]   
+  from = "/join"
+  to = "/"
