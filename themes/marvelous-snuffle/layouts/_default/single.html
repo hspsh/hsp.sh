@@ -5,9 +5,7 @@
 <main class="container">
     <article>
         <h1>{{ .Title }}</h1>
-        {{ if
-          (isset .Params "mainImage") 
-        }}
+        {{ if isset .Params.mainImage "image" }}
         <img src="{{ .Params.mainImage.image }}" alt="{{ .Params.mainImage.imageAlt }}" />
         {{ end }}
         {{ .Content }}

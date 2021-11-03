@@ -4,7 +4,7 @@ backend:
   branch: master
 publish_mode: editorial_workflow
 media_folder: static/assets/uploads
-public_folder: /assets
+public_folder: /assets/uploads
 collections:
   - name: "blog"
     label: "Blog"
