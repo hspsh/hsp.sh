@@ -15,7 +15,7 @@ Więcej przeczytacie w [poście na forum](https://forum.hsp.sh/t/zmiana-komunika
 
 <script type="text/javascript">
   DiscourseEmbed = { discourseUrl: 'https://forum.hsp.sh/',
-                     discourseEmbedUrl: 'https://forum.hsp.sh/t/zmiana-komunikatora/421' };
+                     discourseEmbedUrl: 'https://hsp.sh/blog/2021-10-29-zmiana-komunikatora/' };
 
   (function() {
     var d = document.createElement('script'); d.type = 'text/javascript'; d.async = true;
