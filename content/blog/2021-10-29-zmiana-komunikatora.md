@@ -2,6 +2,7 @@
 title: Zmiana komunikatora
 date: 2021-08-17T15:52:16.750Z
 description: "#slackisoverparty"
+topicId: "421"
 mainImage:
   image: /assets/uploads/wave.jpg
   imageAlt: spejs
