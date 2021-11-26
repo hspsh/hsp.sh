@@ -18,8 +18,6 @@ seo:
     biolodzy, majsterkowicze, hobbyści, artyści, humaniści i studenci różnych
     kierunków.
 ---
-![image|674x500, 100%](upload://1ulMyUH43GvHVFvjU9Uyfbr2sj3.jpeg)
-
 Pewnie zastanawiasz się co to w ogóle jest hackerspace? A może nie jest Ci obce środowisko hakerskie i szukasz własnego spejsu? Jako elektronik, programista czy majsterkowicz skorzystałbyś z warsztatu, w którym mógłbyś realizować swoje pasje? Może zwyczajnie chciałbyś poznać ludzi i poszerzyć swoje horyzonty?
 Ten artykuł ma rozwiązać wątpliwości czym się zajmujemy oraz pomóc Ci wkręcić się w naszą społeczność.
 
