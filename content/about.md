@@ -44,15 +44,27 @@ W skrócie, jeżeli chcesz coś zmienić np. w lokalu, możesz to zrobić tak d�
 
 Na takich zasadach rozwijamy nasz warsztat, tworząc 3 przestrzenie:
 
-* Chillroom - przestrzeń do odpoczynku z strefą gastro, grami planszowymi oraz TV. Tutaj relaksujemy się i rozmawiamy w trakcie Dni Otwartych.
+![chillroom](/assets/uploads/image-1-.jpg "chillroom")
 
-  ![chillroom](/assets/uploads/image-1-.jpg "chillroom")
-* Warsztat - mieszanka przestrzeni do elektroniki, druku 3D ale również cięższych narzędzi. Jest to również punkt wymiany komponentów elektronicznych - idealne gdy brakuje Ci *właśnie tego* komponentu.
+Chillroom - przestrzeń do odpoczynku z strefą gastro, grami planszowymi oraz TV. Tutaj relaksujemy się i rozmawiamy w trakcie Dni Otwartych.
 
-  ![warsztat](/assets/uploads/image-2-.jpg "Warsztat")
-* Cowork - z założenia cicha przestrzeń do pracy. Znajduje się tutaj również przestrzeń na rzeczy członków oraz Infrastruktura serwerowa (niestety głośna) na której hostujemy nasze usługi (min. to forum).
 
-  ![cowork](/assets/uploads/image-3-.jpg "Cowork")
+
+
+
+![warsztat](/assets/uploads/image-2-.jpg "Warsztat")
+
+Warsztat - mieszanka przestrzeni do elektroniki, druku 3D ale również cięższych narzędzi. Jest to również punkt wymiany komponentów elektronicznych - idealne gdy brakuje Ci *właśnie tego* komponentu.
+
+
+
+
+
+![cowork](/assets/uploads/image-3-.jpg "Cowork")
+
+Cowork - z założenia cicha przestrzeń do pracy. Znajduje się tutaj również przestrzeń na rzeczy członków oraz Infrastruktura serwerowa (niestety głośna) na której hostujemy nasze usługi (min. to forum).
+
+
 
 \* - Bałagan w zestawie!
 
