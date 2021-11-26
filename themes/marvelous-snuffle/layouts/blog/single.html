@@ -12,7 +12,7 @@
 
       <script type="text/javascript">
         window.DiscourseEmbed = { discourseUrl: 'https://forum.hsp.sh/',
-        {{ if .Params.topicId" }} 
+        {{ if .Params.topicId }} 
           topicId: {{ .Params.topicId }}
         {{ else }}
           discourseEmbedUrl: '{{ .Permalink }}'
