@@ -66,3 +66,11 @@
 [[redirects]]   
   from = "/join"
   to = "/"
+
+[[redirects]]
+  from = "/2021/post-pandemic-reboot/"
+  to = "/blog/2021-06-09-post-pandemic-reboot/"
+
+[[redirects]]
+  from = "/2020/hs-pomorze/"
+  to = "/blog/2020-10-09-hs-pomorze/"
