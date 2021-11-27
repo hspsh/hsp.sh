@@ -19,11 +19,17 @@
 <meta property="og:url" content="{{ .Permalink }}">
 <meta property="og:title" content="{{ .Title }} &ndash; {{ .Site.Title }}">
 <meta property="og:description" content="{{ .Site.Params.description }}">
-<meta property="og:image" content="{{ .Site.BaseURL }}/assets/logo_accent.png">
+<meta property="og:image" content='{{ .Site.BaseURL -}}
+{{- if isset .Params.mainImage "image" -}}
+{{- .Params.mainImage.image -}}
+{{- else -}}/assets/logo_accent.png{{- end -}}'>
 
 <meta property="twitter:title" content="{{ .Title }} &ndash; {{ .Site.Title }}">
 <meta property="twitter:description" content="{{ .Site.Params.description }}">
-<meta property="twitter:image" content="{{ .Site.BaseURL }}/assets/logo_accent.png">
+<meta property="twitter:image" content='{{ .Site.BaseURL -}}
+{{- if isset .Params.mainImage "image" -}}
+{{- .Params.mainImage.image -}}
+{{- else -}}/assets/logo_accent.png{{- end -}}'>
 <meta property="twitter:card" content="summary">
 
 <link rel="stylesheet" href="/css/normalize.css">
