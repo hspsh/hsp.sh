@@ -12,6 +12,8 @@ alert: danger
 
 W Stowarzyszeniu Hackerspace Pomorze zaszły zmiany i dlatego zwracamy się do wszystkich członków naszej społeczności, by przekazać następujące informacje...
 
+<!--more-->
+
 1. Przede wszystkim, zapraszamy do naszej nowej siedziby na Do Studzienki 28 k. Wydziału ETI PG. Od 10 czerwca przechodzimy na format offline Dni Otwartych i [będziemy spotykać się co tydzień w lokalu](https://www.facebook.com/events/205877854708789). Dokładny adres [tutaj](/contact).
 2. By wykorzystać potencjał naszego [Slacka](/slack), stworzyliśmy kanał #wydarzenia, gdzie będziemy zamieszczać informacje na temat nadchodzących wydarzeń. Będzie to kanał, na którym będziemy używać gromko @channel, więc jeżeli chcecie być na bieżąco, to polecam na niego wstąpić. 
 3. Stworzyliśmy również link: `http://hsp.sh/calendar.ics`. Ten link możecie dodać do swojego kalendarza, by nie przegapić żadnego wydarzenia. Jest to bardzo efektywna i nieinwazyjna forma bycia ze wszystkim na bieżąco. Feed kalendarzowy jest synchronizowany z naszą instancją [Mobilizona](https://wydarzenia.hsp.sh/), oraz [kalendarzem na stronie](/calendar).

@@ -1,0 +1,7 @@
+<article class="post">
+    <h2><a href='{{ .RelPermalink }}'> {{ .Title }}</a> </h2>
+    <div class="post-meta">{{.Date.Format "2006-01-02"}}</div>
+    {{ .Summary }}
+    <br>
+    <a href='{{ .RelPermalink }}'><nobr>Read more -></nobr></a>
+</article>

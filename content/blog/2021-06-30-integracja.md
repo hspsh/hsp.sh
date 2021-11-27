@@ -8,13 +8,15 @@ redirect_from:
 categories: [posts]
 ---
 
-## Spotykamy się w gronie członków i przyjaciół Stowarzyszenia Hackerspace Pomorze celem podsumowania roku pandemicznej separacji.
+Spotykamy się w gronie członków i przyjaciół Stowarzyszenia Hackerspace Pomorze celem podsumowania roku pandemicznej separacji.
 
 W planach:
 
  * Grill,
  * Integracja,
  * ~~Zwiedzanie spejsowej szklarni!~~
+
+ <!--more-->
 
 # Kiedy?
 

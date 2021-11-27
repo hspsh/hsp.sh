@@ -9,6 +9,8 @@ title: sierpień 2019
 
 Zapraszamy na drugie wydanie cyklu otwartych spotkań “Sierpień Open Source” w czasie których wszyscy zainteresowani będą mogli się zapoznać z narzędziami, kulturą, a szczególnie ze społecznością Open Source.
 
+<!--more-->
+
 Na tej stronie będą się ukazywać aktualizacje informacji dotyczących wydarzenia oraz linki do wydarzeń na portalach społecznościowych.
 
 ## DLA KOGO?

@@ -3,6 +3,7 @@ categories:
 - event
 date: "2017-12-15T00:00:00Z"
 title: Hackathon Świąteczny
+summary: Tematem przewodnim hackathonu są święta i wszystko co z nimi związane - ozdoby, kolędy, prezenty i szeroko pojęty rodzinny klimat tych świąt. Celujemy w luźny klimat hackathonu dla zabawy, wielkiego hakowania nie przewidujemy.
 ---
 
 Zapisy: [[hackathonswiateczny.evenea.pl](https://hackathonswiateczny.evenea.pl){:target="_blank"}] 

@@ -18,14 +18,14 @@
 <!-- TODO(not7cd): add parametrizable banner -->
 <meta property="og:url" content="{{ .Permalink }}">
 <meta property="og:title" content="{{ .Title }} &ndash; {{ .Site.Title }}">
-<meta property="og:description" content="{{ .Site.Params.description }}">
+<meta property="og:description" content="{{ if .Summary }}{{ .Summary }}{{ else }}{{ .Site.Params.description }}{{ end }}">
 <meta property="og:image" content='{{ .Site.BaseURL -}}
 {{- if isset .Params.mainImage "image" -}}
 {{- .Params.mainImage.image -}}
 {{- else -}}/assets/logo_accent.png{{- end -}}'>
 
 <meta property="twitter:title" content="{{ .Title }} &ndash; {{ .Site.Title }}">
-<meta property="twitter:description" content="{{ .Site.Params.description }}">
+<meta property="twitter:description" content="{{ if .Summary }}{{ .Summary }}{{ else }}{{ .Site.Params.description }}{{ end }}">
 <meta property="twitter:image" content='{{ .Site.BaseURL -}}
 {{- if isset .Params.mainImage "image" -}}
 {{- .Params.mainImage.image -}}
