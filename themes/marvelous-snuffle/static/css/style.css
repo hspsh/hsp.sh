@@ -264,6 +264,12 @@ main {
     margin   : auto;
 }
 
+.card {
+    margin: 2ch 0;
+    padding: 0 2ch;
+    border:  1px solid var(--text);
+}
+
 .center {
     text-align: center;
 }
@@ -296,8 +302,14 @@ main {
     display  : block;
 }
 
-#door.action-btn.open {
+.door.action-btn.open {
     color           : var(--accent-bg);
     border-color    : var(--accent-bg);
     background-color: #0c9;
+}
+
+.door.card.open {
+    display: block !important; /* this will bite me in the ass some time */
+    color           : var(--accent);
+    border-color    : var(--accent);
 }

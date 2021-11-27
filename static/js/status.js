@@ -8,13 +8,15 @@ window.fetch('https://status.hsp.sh/api/now')
 
     response.json().then((data) => {
       if (data.state.open === true) {
-        const door = document.querySelector('#door')
-        door.classList.add('open')
-        door.setAttribute('title', `${data.users.join(', ')}`)
+        const doors = document.querySelectorAll('.door')
+        doors.forEach((elt, index) => {
+          elt.classList.add('open')
+          // elt.setAttribute('title', `${data.users.join(', ')}`)
+        });
       }
     })
   }
   )
   .catch(function (err) {
-    console.error('Fetch Error :-S', err)
+    console.error('Fetch Error :(', err)
   })

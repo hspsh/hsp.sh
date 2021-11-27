@@ -11,7 +11,7 @@ nav {
 }
 main {
   background: var(--bg);
-  padding: 2em;;
+  /* padding: 2em;; */
 }
 
 canvas, .grab {
@@ -27,6 +27,13 @@ canvas, .grab {
 <canvas id="canvas"></canvas>
 <main class="container">
     <h1>{{ .Title }}</h1>
+    <div class="card door" style="display: none;">
+			<h3>Otwarte!</h3>
+			<p>
+			  Nasze odczyty wskazują, że HS jest otwarty. Daj nam znać jeśli planujesz wpaść. Do zobaczenia!
+			</p>
+      <p class="status-list"></p>
+		</div>
 		{{ .Content }}
 </main>
 <script src="/js/panoLocation.js" defer></script>
