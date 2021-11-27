@@ -265,7 +265,8 @@ main {
 }
 
 .card {
-    padding: 1ch;
+    margin: 2ch 0;
+    padding: 0 2ch;
     border:  1px solid var(--text);
 }
 
@@ -308,7 +309,7 @@ main {
 }
 
 .door.card.open {
-    display: initial;
+    display: block !important; /* this will bite me in the ass some time */
     color           : var(--accent);
     border-color    : var(--accent);
 }
