@@ -15,7 +15,7 @@ Członkostwo również wiąże się z obowiązkiem wsparciem Stowarzyszenia w fo
 Aby uzyskać członkostwo, należy:
 
 1. Przedstawić się w [wątku na forum](https://forum.hsp.sh/t/-/50).
-2. Wypełnić [deklarację członkowską](https://nc.hsp.sh/index.php/s/gZGb6Fjj99cnySo/download).
+2. Wypełnić [deklarację członkowską](/assets/deklaracja_hsp.pdf).
 3. Zebrać 3 okejki od członków.
 4. Dostarczyć deklarację do członka Zarządu (@amadeusz, @hamsterking, @yasiu, @Jogurt) rozpoczynając oficjalny proces przyjęcia do stowarzyszenia.
 5. Członkiem zostaje się po akceptacji Zarządu, bez sprzeciwu członków, i opłaceniu składki.  
@@ -24,7 +24,7 @@ Aby uzyskać członkostwo, należy:
 
 Jeśli masz firmę lub fajnego szefa, który potencjalnie chciałby nas wesprzeć, daj nam znać, jesteśmy otwarci na współpracę.
 
-Więcej o działalności naszej organizacji możesz przeczytać w [Statucie](https://nc.hsp.sh/index.php/s/Mjk6DrW69JGjS23/download).
+Więcej o działalności naszej organizacji możesz przeczytać w [Statucie](/assets/status_hsp.pdf).
 
 ### Dane do przelewu
 
