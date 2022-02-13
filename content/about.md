@@ -84,7 +84,7 @@ Zerkaj również na kategorię #wydarzenia i nasz [kalendarz](https://hsp.sh/cal
 
 **Członkostwo**
 
-Jeżeli podoba ci się idea Hackerspace'u, zapraszamy do formalnego członkostwa w Stowarzyszeniu Hackerspace Pomorze. Członkostwo daje ci nieograniczony dostęp 24/7 do lokalu, oraz decydujący głos w sprawach stowarzyszenia. Będziesz również zaproszony na Zebrania Walne, wedle [statutu](https://nc.hsp.sh/index.php/s/Mjk6DrW69JGjS23/download).
+Jeżeli podoba ci się idea Hackerspace'u, zapraszamy do formalnego członkostwa w Stowarzyszeniu Hackerspace Pomorze. Członkostwo daje ci nieograniczony dostęp 24/7 do lokalu, oraz decydujący głos w sprawach stowarzyszenia. Będziesz również zaproszony na Zebrania Walne, wedle [statutu](/assets/status_hsp.pdf).
 
 Więcej informacji uzyskasz na stronie [Członkostwa](https://hsp.sh/membership).
 
