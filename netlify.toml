@@ -49,6 +49,10 @@
   from = "/calendar.atom"
   to = "https://wydarzenia.hsp.sh/@hs/feed/atom"
 
+[[redirects]]
+  from = "/walne_zebranie_czlonkow"
+  to = "https://forum.hsp.sh/t/walne-zebranie-czlonkow-05-03-2022/587"
+
 # legacy stuff
 
 [[redirects]]   
