@@ -6,9 +6,9 @@ mainImage:
   image: /assets/uploads/hs_wolna_elekcja.jpg
   imageAlt: Zebranie Walne Wyborcze 2022
 ---
-W minioną sobotę 5 Marca odbyło się trzecie zebranie walne Stowarzyszenia Hackerspace Pomorze. Było to spotkanie sprawozdawcze, oraz wyborcze po kadencji 2020-2022. W trakcie zebrania wybraliśmy nowy skład zarządu oraz komisji rewizyjnej. 
+W minioną sobotę 5 Marca odbyło się trzecie zebranie walne Stowarzyszenia Hackerspace Pomorze. Było to spotkanie sprawozdawcze, oraz wyborcze po kadencji 2020-2022, w trakcie którego wybraliśmy nowy skład zarządu oraz komisji rewizyjnej. 
 
-W spotkaniu wzięło udział 23 członków społeczności, co stanowiło kworum. Zebranie Walne przyjęło bez uwag sprawozdanie finansowe za poprzedni rok oraz udzieliło absolutorium zarządowi.
+W głosowaniach wzięło udział 23 członków społeczności, co stanowiło kworum. Zebranie Walne przyjęło bez uwag sprawozdanie finansowe za poprzedni rok oraz udzieliło absolutorium zarządowi.
 
 Nowy skład zarządu na kadencję 2022-2024 to:
 
@@ -35,4 +35,4 @@ Został również poparty apel o następującej treści:
 
 `Walne zebranie apeluje do Członków Stowarzyszenia aby kandydatury do Władz Stowarzyszenia i zmiany w Statucie Stowarzyszenia były zgłaszane przynajmniej tydzień przed Walnym, wraz z ich uzasadnieniem.`
 
-Pełen zapis zebrania walnego oraz wyniki głosowań są dostępne dla członków stowarzyszenia na [Forum](https://forum.hsp.sh/t/walne-zebranie-czlonkow-05-03-2022/587).
+Pełen zapis zebrania walnego, sprawozdanie finansowe oraz wyniki głosowań są dostępne dla członków stowarzyszenia na [Forum](https://forum.hsp.sh/t/walne-zebranie-czlonkow-05-03-2022/587).
