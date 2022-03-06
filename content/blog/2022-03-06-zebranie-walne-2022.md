@@ -18,7 +18,7 @@ Nowy skład zarządu na kadencję 2022-2024 to:
 * Oliwier "hamsterking" Płonka
 * Krzysztof "yogi" Wrzałka
 
-Skład rady nadzorczej to:
+Skład komisji rewizyjnej to:
 
 * Michał "yakub" Jakubowicz
 * Karolina "karo" Krzelowska
