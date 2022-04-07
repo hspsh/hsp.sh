@@ -16,7 +16,6 @@ Nowy skład zarządu na kadencję 2022-2024 to:
 * Marcin "yasiu" Jasiukowicz
 * Amadeusz "amadeusz" Lisiecki
 * Oliwier "hamsterking" Płonka
-* Krzysztof "yogi" Wrzałka
 
 Skład komisji rewizyjnej to:
 
@@ -27,7 +26,7 @@ Skład komisji rewizyjnej to:
 
 W trakcie zebrania została również uchwalona poprawka do Rozdział II. statutu - “Cele i sposoby ich realizacji” § 9a o następującej treści: 
 
-`Wszelkie utwory powstałe w wyniku działalności statutowej Stowarzyszenia lub na potrzeby realizowania działalności statutowej Stowarzyszenia muszą zostać udostępnione na wolnej licencji (free license), znajdującej się na liście utrzymywanej przez Free Software Foundation pod adresem `[` https://www.gnu.org/licenses/license-list.html`](https://www.gnu.org/licenses/license-list.html)``
+`Wszelkie utwory powstałe w wyniku działalności statutowej Stowarzyszenia lub na potrzeby realizowania działalności statutowej Stowarzyszenia muszą zostać udostępnione na wolnej licencji (free license), znajdującej się na liście utrzymywanej przez Free Software Foundation pod adresem`[`https://www.gnu.org/licenses/license-list.html`](https://www.gnu.org/licenses/license-list.html)``
 
 Jest to ukłon w kierunku ruchu wolnego oprogramowania oraz wynik wewnętrznych dyskusji po [naszym spotkaniu z Richardem Stallmanem](https://forum.hsp.sh/t/richard-stallman-is-in-town/449).
 
