@@ -654,5 +654,8 @@ h1 {
     #mobile-navToggle:not(:checked)~.mobile-navEffects ul {
         transform: translateY(-30%);
     }
+    article {
+        line-height: 1.4;
+    }
 
 }
