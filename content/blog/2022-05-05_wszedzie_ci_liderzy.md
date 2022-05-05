@@ -2,6 +2,7 @@
 title: Wszędzie ci liderzy...
 date: 2022-05-05T00:00:00.000Z
 description: Liderzy, prawdziwi liderzy, servant liderzy, senior liderzy
+author: Małgorzata Surkont
 mainImage:
   image: /assets/uploads/liderzy.png
   imageAlt: Jest wiele książek o tym jak być liderem
