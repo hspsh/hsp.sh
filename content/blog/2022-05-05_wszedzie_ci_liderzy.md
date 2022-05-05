@@ -2,11 +2,12 @@
 title: Wszędzie ci liderzy...
 date: 2022-05-05T00:00:00.000Z
 description: Liderzy, prawdziwi liderzy, servant liderzy, senior liderzy
-author: Małgorzata Surkont
 mainImage:
   image: /assets/uploads/liderzy.png
   imageAlt: Jest wiele książek o tym jak być liderem
 ---
+**Małgorzata Surkont**
+
 Liderzy, prawdziwi liderzy, servant liderzy, senior liderzy i wszystkie kombinacje różnych liderów odmienionych przez wszystkie przypadki, szkolenia dla liderów - Linkedin obecnie to istny festiwal liderów i boję się otworzyć lodówkę. Wszędzie są liderzy … tylko, że do końca nikt nie wie co to znaczy … i niestety mogą to być liderzy bez pokrycia.
 Kiedyś rzeczy były prostsze - z dzieciństwa pamiętam, że był lider wyścigu pokoju, lider wydobycia węgla brunatnego w krajach RWPG,  albo niestety lider wyścigu zbrojeń. Było to związane z byciem pierwszym lub dominującym w określonej domenie. Co ciekawe, ponieważ nie zawsze był możliwy obiektywny pomiar, ciężko było określić czy ktoś był rzeczywiście pierwszy i takich liderów mogło być więcej - bo każdy zainteresowany nazywał się liderem. Natomiast nie ogłaszał się liderem każdy.
 
