@@ -43,7 +43,7 @@
 
 [[redirects]]   
   from = "/calendar.ics"
-  to = "https://wydarzenia.hsp.sh/@hs/feed/ics"
+  to = "https://www.meetup.com/hspomorze/events/ical/"
 
 [[redirects]]
   from = "/walne_zebranie_czlonkow"
