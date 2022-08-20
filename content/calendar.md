@@ -19,8 +19,6 @@ Jeżeli chcesz zorganizować jakieś wydarzenie, zapoznaj się z [poradnikiem na
 
 [Instrukcja Apple Calendar z Maca](https://support.apple.com/guide/calendar/subscribe-to-calendars-icl1022/mac)
 
-Link do kalendarza w formacie: [ICS/WebCal](/calendar.ics), [RSS/Atom](/calendar.atom). Możesz dodać je do swojego kalendarza lub klienta RSS!
+Link do kalendarza w formacie: [ICS/WebCal](/calendar.ics). Możesz dodać go do swojego kalendarza!
 
 `https://hsp.sh/calendar.ics`
-
-`https://hsp.sh/calendar.atom`
