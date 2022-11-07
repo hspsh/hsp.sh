@@ -11,7 +11,8 @@ Do Studzienki 28, 80-233 Gdańsk,
 
 W każdy czwartek o 19:00 zapraszamy na dzień otwarty!  
 Nie odpowiada Ci czwartek?  
-Napisz na czacie, a ktoś na pewno Cię przygarnie.
+Napisz na czacie, a ktoś może Cię przygarnie.
+Obczaj <a href="https://mapall.space/heatmap//show.php?id=Pomerania+Hackerspace">heatmap'ę kiedy jesteśmy przeważnie w spejsie</a>.
 
 Żółta brama wjazdowa. Można wejść od tyłu lub przez furtkę.  
 Na furtce powinien znajdować się dzwonek. 
