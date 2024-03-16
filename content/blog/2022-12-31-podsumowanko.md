@@ -3,8 +3,8 @@ title: Podsumowanie roku 2022
 date: 2022-12-31T23:59:59.999Z
 description: Krótkie spojrzenie w co się działo w HS podczas roku 2022
 mainImage:
-  image: /assets/uploads/hs2022.png
-  imageAlt: Szklarnia
+  image: /assets/uploads/laser.jpeg
+  imageAlt: Laser
 ---
 
 To już drugi rok naszej działalności! Oto poglądowy spis tego co działo się u nas w minionym roku...
