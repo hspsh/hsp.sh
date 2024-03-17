@@ -10,7 +10,7 @@ Zapraszamy sympatyków do formalnego członkostwa w Stowarzyszeniu Hackerspace P
 
 Członkostwo daje Ci dostęp do [lokalu](/contact) (własny klucz i kartę) oraz wpis do listy członków w naszym stowarzyszeniu (w tym głos na formalnych Zebraniach). Zdobycie członkostwa wymaga przede wszystkim poznania członków i zdobycia 3 okejek. Okejki są sygnałem, że ktoś za Ciebie poręczył i możemy tobie zaufać. 
 
-Członkostwo również wiąże się z obowiązkiem wsparciem Stowarzyszenia w formie składki członkowskiej która wynosi 100 PLN / msc. Jeżeli jest to dla ciebie duża kwota, nie martw się! Porozmawiaj z zarządem o obniżonej składce (tzw. "studenckiej").
+Członkostwo również wiąże się z obowiązkiem wsparciem Stowarzyszenia w formie składki członkowskiej która wynosi 150 PLN / msc. Jeżeli jest to dla ciebie duża kwota, nie martw się! Porozmawiaj z zarządem o obniżonej składce (tzw. "studenckiej").
 
 Aby uzyskać członkostwo, należy:
 
