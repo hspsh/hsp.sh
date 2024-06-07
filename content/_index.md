@@ -14,6 +14,6 @@ Hackerspace to społeczność i przestrzeń pasjonatów technologii -> [więcej]
 
 {{< memberCall >}}
 
-## Serwisy społecznościowe
+## Nasze witryny
 
 {{< socials >}}
