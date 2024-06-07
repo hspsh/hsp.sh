@@ -18,6 +18,6 @@ Stowarzyszenie Hackerspace Pomorze tworzy społeczność oraz przestrzeń dla pa
 
 {{< memberCall >}}
 
-## Serwisy społecznościowe
+## Nasze witryny
 
 {{< socials >}}
