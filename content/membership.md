@@ -8,7 +8,7 @@ url: /membership
 ---
 Zapraszamy sympatyków do formalnego członkostwa w Stowarzyszeniu Hackerspace Pomorze.
 
-Członkostwo daje Ci dostęp do [lokalu](/contact) (własny klucz i kartę) oraz wpis do listy członków w naszym stowarzyszeniu (w tym głos na formalnych Zebraniach). Zdobycie członkostwa wymaga przede wszystkim poznania członków i zdobycia 3 okejek. Okejki są sygnałem, że ktoś za Ciebie poręczył i możemy tobie zaufać. 
+Członkostwo daje Ci dostęp do [lokalu](/location) (własny klucz i kartę) oraz wpis do listy członków w naszym stowarzyszeniu (w tym głos na formalnych Zebraniach). Zdobycie członkostwa wymaga przede wszystkim poznania członków i zdobycia 3 okejek. Okejki są sygnałem, że ktoś za Ciebie poręczył i możemy tobie zaufać. 
 
 Członkostwo również wiąże się z obowiązkiem wsparciem Stowarzyszenia w formie składki członkowskiej która wynosi 150 PLN / msc. Jeżeli jest to dla ciebie duża kwota, nie martw się! Porozmawiaj z zarządem o obniżonej składce (tzw. "studenckiej").
 
@@ -17,7 +17,7 @@ Aby uzyskać członkostwo, należy:
 1. Przedstawić się w [wątku na forum](https://forum.hsp.sh/t/-/50).
 2. Wypełnić [deklarację członkowską](/assets/deklaracja_hsp.pdf).
 3. Zebrać 3 okejki od członków.
-4. Dostarczyć deklarację do [Zarządu](/kontakt) rozpoczynając oficjalny proces przyjęcia do stowarzyszenia.
+4. Dostarczyć deklarację do [Zarządu](/contakt) rozpoczynając oficjalny proces przyjęcia do stowarzyszenia.
 5. Członkiem zostaje się po akceptacji Zarządu, bez sprzeciwu członków, i opłaceniu składki.  
     - Tydzień przed głosowaniem Zarząd informuje członków HSP o kandydacie czekając na potencjalne obiekcje.
 6. Okres przejściowy - klucze do lokalu można uzyskać najwcześniej miesiąc po złożeniu deklaracji członkowskiej na ręce członka Zarządu.
