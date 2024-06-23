@@ -24,7 +24,7 @@ Aby uzyskać członkostwo, należy:
 
 Jeśli masz firmę lub fajnego szefa, który potencjalnie chciałby nas wesprzeć, daj nam znać, jesteśmy otwarci na współpracę.
 
-Więcej o działalności naszej organizacji możesz przeczytać w [Statucie](/assets/status_hsp.pdf).
+Więcej o działalności naszej organizacji możesz przeczytać w [Statucie](/statut).
 
 ### Dane do przelewu
 
