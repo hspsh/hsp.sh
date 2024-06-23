@@ -17,6 +17,6 @@ Co to oznacza dla naszych członków i sympatyków? Jesteśmy teraz niezależną
 
 Dla wszystkich, którzy tęsknili za naszymi Dniami Otwartymi również mamy dobrą wiadomość - tradycyjnie przy przeprowadzkach będzie parapetówka, już niedługo damy info kiedy, obserwujcie nasze kanały.
 
-Statut stowarzyszenia możesz przeczytać [tutaj](/assets/status_hsp.pdf).
+Statut stowarzyszenia możesz przeczytać [tutaj](/statut).
 
 {% include location-map.html %}
