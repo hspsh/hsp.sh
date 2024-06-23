@@ -17,7 +17,7 @@ Aby uzyskać członkostwo, należy:
 1. Przedstawić się w [wątku na forum](https://forum.hsp.sh/t/-/50).
 2. Wypełnić [deklarację członkowską](/assets/deklaracja_hsp.pdf).
 3. Zebrać 3 okejki od członków.
-4. Dostarczyć deklarację do [Zarządu](/contakt) rozpoczynając oficjalny proces przyjęcia do stowarzyszenia.
+4. Dostarczyć deklarację do [Zarządu](/contact) rozpoczynając oficjalny proces przyjęcia do stowarzyszenia.
 5. Członkiem zostaje się po akceptacji Zarządu, bez sprzeciwu członków, i opłaceniu składki.  
     - Tydzień przed głosowaniem Zarząd informuje członków HSP o kandydacie czekając na potencjalne obiekcje.
 6. Okres przejściowy - klucze do lokalu można uzyskać najwcześniej miesiąc po złożeniu deklaracji członkowskiej na ręce członka Zarządu.
