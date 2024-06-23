@@ -49,6 +49,10 @@
   from = "/walne_zebranie_czlonkow"
   to = "https://forum.hsp.sh/t/walne-zebranie-czlonkow-05-03-2022/587"
 
+[[redirects]]
+  from = "/statut"
+  to = "/assets/statut/Statut_HSP_05-03-2022.pdf"
+
 # legacy stuff
 
 [[redirects]]   
