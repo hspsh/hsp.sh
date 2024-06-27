@@ -112,7 +112,7 @@ Pełną i aktualną listę hackerspejsów znajdziesz na [Hackerspace Wiki](https
 
 Serdecznie zachęcamy Cię do zapoznania się z następującymi materiałami, które zapoznają cię z szerszą ideą ruchu Hackerskiego:
 
-* Przede wszystkim: [Statut Stowarzyszenia Hackerspace Pomorze](https://nc.hsp.sh/index.php/s/Mjk6DrW69JGjS23/download)
+* Przede wszystkim: [Statut Stowarzyszenia Hackerspace Pomorze](https://hsp.sh/statut)
 * [Dookracja](https://communitywiki.org/wiki/DoOcracy)
 * [Hackerspace Blueprint: A guide on how to run a Hackerspace](https://hackerspace.design/)
 * [Hackerspace Design (Anti-)Patterns](https://wiki.hackerspaces.org/Design_Patterns), [(Video tutaj)](https://www.youtube.com/watch?v=RPUSQBXBrtk).
