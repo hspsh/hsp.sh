@@ -53,6 +53,10 @@
   from = "/statut"
   to = "https://github.com/hspsh/stowarzyszenie/releases/latest/download/Statut_HSP.pdf"
 
+[[redirects]]
+  from = "/deklaracja"
+  to = "/statut/deklaracja_hsp_2024.pdf"
+
 # legacy stuff
 
 [[redirects]]   
