@@ -15,7 +15,7 @@ Członkostwo również wiąże się z obowiązkiem wsparciem Stowarzyszenia w fo
 Aby uzyskać członkostwo, należy:
 
 1. Przedstawić się w [wątku na forum](https://forum.hsp.sh/t/-/50).
-2. Wypełnić [deklarację członkowską](/assets/deklaracja_hsp.pdf).
+2. Wypełnić [deklarację członkowską](/deklaracja).
 3. Zebrać 3 okejki od członków.
 4. Dostarczyć deklarację do [Zarządu](/contact) rozpoczynając oficjalny proces przyjęcia do stowarzyszenia.
 5. Członkiem zostaje się po akceptacji Zarządu, bez sprzeciwu członków, i opłaceniu składki.  
