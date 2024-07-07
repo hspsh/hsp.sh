@@ -6,6 +6,8 @@
             <a class="sidebar-nav-item{{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} active{{end}}" href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a>
             {{- end }}
          </nav>
-
+         <nav style="float:right;">
+            <a class="sidebar-nav-item active" href="https://auth.hsp.sh" title="Log In">Zaloguj się</a>
+         </nav>
     </div>
 </header>
