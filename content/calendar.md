@@ -7,7 +7,7 @@ permalink: /calendar/
 url: /calendar
 ---
 
-Jeżeli chcesz zorganizować jakieś wydarzenie, zapoznaj się z [poradnikiem na wiki](https://wiki.hsp.sh/zrob_se_meetup)
+Jeżeli chcesz zorganizować jakieś wydarzenie, zapoznaj się z [poradnikiem na Forum](https://forum.hsp.sh/t/jak-zorganizowac-wydarzenie-w-hsp/830).
 
 {{< calendar >}}
 ## Jak dodać wydarzenia do mojego kalendarza?
