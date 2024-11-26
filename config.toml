@@ -3,7 +3,7 @@ languageCode = "pl-pl"
 title = "Hackerspace Pomorze"
 copyright = "CC-BY-SA"
 
-theme = "marvelous-snuffle"
+theme = "black-sheep"
 
 [params]
 description = "Hackerspace to miejsce dla osób, którym po prostu się chce!"
