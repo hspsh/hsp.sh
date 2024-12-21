@@ -14,6 +14,7 @@ Członkostwo również wiąże się z obowiązkiem wsparciem Stowarzyszenia w fo
 
 Aby uzyskać członkostwo, należy:
 
+1. Zapoznać się z [Regulaminem](https://docs.hsp.sh/regulamin) i [Statutem Stowarzyszenia](/statut)
 1. Przedstawić się w [wątku na forum](https://forum.hsp.sh/t/-/50).
 2. Wypełnić [deklarację członkowską](/deklaracja).
 3. Zebrać 3 okejki od członków.
@@ -24,7 +25,7 @@ Aby uzyskać członkostwo, należy:
 
 Jeśli masz firmę lub fajnego szefa, który potencjalnie chciałby nas wesprzeć, daj nam znać, jesteśmy otwarci na współpracę.
 
-Więcej o działalności naszej organizacji możesz przeczytać w [Statucie](/statut).
+<!--Więcej o działalności naszej organizacji możesz przeczytać w [Statucie](/statut).-->
 
 ### Dane do przelewu
 
