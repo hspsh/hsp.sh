@@ -23,7 +23,7 @@ Ten artykuł ma rozwiązać wątpliwości czym się zajmujemy oraz pomóc Ci wkr
 
 > First of all: Nie panikuj! Nazywając się Hackerami nie jesteśmy internetowymi rzezimieszkami. Więcej dowiesz się poniżej.
 
-Jak głosi [nasz slogan na stronie WWW](https://pomorze.hackerspace.pl), *Hackerspace to miejsce dla osób, którym po prostu się chce!* 
+Jak głosi [nasz slogan na stronie WWW](https://hsp.sh), *Hackerspace to miejsce dla osób, którym po prostu się chce!* 
 
 **Ale co za tym się kryje?**
 
@@ -80,7 +80,7 @@ Zachęcamy cię do korzystania z tego Forum oraz udzielania się na naszym oficj
 
 Wpadaj na dni otwarte w czwartki od 18:00. Jest to dzień gdzie spotykają się członkowie stowarzyszenia oraz nowe osoby, aby porozmawiać, wymienić się doświadczeniami czy popracować nad projektami. 
 
-Zerkaj również na kategorię #wydarzenia i nasz [kalendarz](https://hsp.sh/calendar) gdzie publikujemy informacje o akcjach które organizujemy.
+Zerkaj również na kanał #broadcast i nasz [kalendarz](https://hsp.sh/calendar) gdzie publikujemy informacje o akcjach które organizujemy.
 
 **Członkostwo**
 
@@ -113,6 +113,7 @@ Pełną i aktualną listę hackerspejsów znajdziesz na [Hackerspace Wiki](https
 Serdecznie zachęcamy Cię do zapoznania się z następującymi materiałami, które zapoznają cię z szerszą ideą ruchu Hackerskiego:
 
 * Przede wszystkim: [Statut Stowarzyszenia Hackerspace Pomorze](https://hsp.sh/statut)
+* [Regulamin](https://docs.hsp.sh/regulamin)
 * [Dookracja](https://communitywiki.org/wiki/DoOcracy)
 * [Hackerspace Blueprint: A guide on how to run a Hackerspace](https://hackerspace.design/)
 * [Hackerspace Design (Anti-)Patterns](https://wiki.hackerspaces.org/Design_Patterns), [(Video tutaj)](https://www.youtube.com/watch?v=RPUSQBXBrtk).
