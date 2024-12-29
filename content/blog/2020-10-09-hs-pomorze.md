@@ -3,7 +3,7 @@ banner: /assets/images/hspomorze/banner.png
 categories:
   - event
 date: 2020-10-09T00:00:00Z
-pinned: true
+pinned: false
 redirect_from:
   - /hspomorze
 title: Ważna wiadomość dla społeczności hakerspejsowej!

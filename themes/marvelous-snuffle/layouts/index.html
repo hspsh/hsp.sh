@@ -12,6 +12,17 @@ body {
 		</div>
 		<p class="slogan">{{ .Site.Params.description }}</p>
 	</section>
+	<section id="pinned">
+		{{ $notices := where site.RegularPages "Params.pinned" "eq" true }}
+		{{ range $notices }}
+		<div class="card door">
+			<p>
+				{{ .Render "summary"}}
+			</p>
+		</div>
+  
+  	{{ end }}
+	</section>
 	<section>
 		<h2>Wepnij się</h2>
 		<div class="action-buttons">
