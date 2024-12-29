@@ -6,7 +6,7 @@ date: 2021-06-09
 categories: [notice]
 
 # if display on every page
-pinned: true
+pinned: false
 alert: danger
 ---
 
