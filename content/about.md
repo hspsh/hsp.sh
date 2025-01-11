@@ -18,72 +18,73 @@ seo:
     biolodzy, majsterkowicze, hobbyści, artyści, humaniści i studenci różnych
     kierunków.
 ---
-Pewnie zastanawiasz się co to w ogóle jest hackerspace? A może nie jest Ci obce środowisko hakerskie i szukasz własnego spejsu? Jako elektronik, programista czy majsterkowicz skorzystałbyś z warsztatu, w którym mógłbyś realizować swoje pasje? Może zwyczajnie chciałbyś poznać ludzi i poszerzyć swoje horyzonty?
+Pewnie zastanawiasz się... 
+## Co to w ogóle jest hackerspace? 
+A może nie jest Ci obce środowisko hakerskie i szukasz własnego spejsu? Jako elektronik, programista czy majsterkowicz skorzystałbyś z warsztatu, w którym mógłbyś realizować swoje pasje? Może zwyczajnie chciałbyś poznać ludzi i poszerzyć swoje horyzonty?
 Ten artykuł ma rozwiązać wątpliwości czym się zajmujemy oraz pomóc Ci wkręcić się w naszą społeczność.
 
 > First of all: Nie panikuj! Nazywając się Hackerami nie jesteśmy internetowymi rzezimieszkami. Więcej dowiesz się poniżej.
 
 Jak głosi [nasz slogan na stronie WWW](https://pomorze.hackerspace.pl), *Hackerspace to miejsce dla osób, którym po prostu się chce!* 
 
-**Ale co za tym się kryje?**
+### Ale co się za tym kryje?
 
 Stowarzyszenie Hackerspace Pomorze tworzy społeczność oraz przestrzeń dla pasjonatów na ulicy Do Studzienki 28 w Gdańsku (w pobliżu wydziału ETI Politechniki Gdańskiej). 
 
 
-Tematyka tradycyjnie pokrywa się z szeroko pojętym IT, Linuxem, programowaniem, Sztuczną Inteligencją, Security, Open Source, Open Hardware, elektroniką oraz "nowoczesnymi" technologiami. W wolnych chwilach rozmawiamy o eksploracji kosmosu, nowinkach z świata nauki czy filozofii. Jesteśmy również otwarci na, oraz wspieramy działania społeczne, kulturalne i artystyczne. Oferujemy wsparcie i doświadczenie przy realizacji projektów, wydarzeń, hackatonów czy większych akcji w tych dziedzinach.
+Tematyka tradycyjnie pokrywa się z szeroko pojętym IT, Linuxem, programowaniem, Sztuczną Inteligencją, Security, Open Source, Open Hardware, elektroniką oraz "nowoczesnymi" technologiami. W wolnych chwilach rozmawiamy o eksploracji kosmosu, nowinkach z świata nauki czy filozofii. 
+Jesteśmy również otwarci na, oraz wspieramy działania **społeczne, kulturalne i artystyczne**. Oferujemy wsparcie i doświadczenie przy realizacji projektów, wydarzeń, hackatonów czy większych akcji w tych dziedzinach.
 
-Budujemy postawę obywatelską i premiujemy inicjatywy oddolne oraz odpowiedzialność członków.
+**Budujemy postawę obywatelską** i premiujemy inicjatywy oddolne oraz odpowiedzialność członków.
 
-Bardzo nam zależy na tym, aby nasza przestrzeń była przyjazna i otwarta dla jak najszerszej grupy odbiorców. 
-
+Bardzo nam zależy na tym, aby nasza przestrzeń była **przyjazna i otwarta** dla jak najszerszej grupy odbiorców. 
 Najważniejsza zasada: **Be excellent to each other!**
-Organizacyjnie stosujemy zasady [Dookracji](https://communitywiki.org/wiki/DoOcracy) (ang. Doocracy, do-opoly). 
 
-W skrócie, jeżeli chcesz coś zmienić np. w lokalu, możesz to zrobić tak długo jak zmiana jest łatwo odwracalna. Do większych zmian będziesz potrzebował zgody społeczności uzyskanej na Spotkaniach Organizacyjnych odbywających się co 2 tygodnie. 
+Organizacyjnie stosujemy zasady **[Dookracji](https://communitywiki.org/wiki/DoOcracy)** (ang. Doocracy, do-opoly); W skrócie, jeżeli chcesz coś zmienić np. w lokalu, możesz to zrobić tak długo jak zmiana jest łatwo odwracalna. Do większych zmian będziesz potrzebował zgody społeczności uzyskanej na Spotkaniach Organizacyjnych (SPORGach) odbywających się **co miesiąc.**
 
-Na takich zasadach rozwijamy nasz Hackerspace, tworząc 4 przestrzenie:
+**W ten sposób rozwijamy nasz Hackerspace, tworząc 4 przestrzenie:**
 
 ![chillroom](/assets/uploads/image-1-.jpg "chillroom")
-> Chillroom - przestrzeń do odpoczynku z strefą gastro, grami planszowymi oraz TV. Tutaj relaksujemy się i rozmawiamy w trakcie Dni Otwartych.
+> *Chillroom* - przestrzeń do odpoczynku połączona z kuchnią; Z grami planszowymi, konsolami, TV i Mate na wyposażeniu. Tutaj relaksujemy się i rozmawiamy w trakcie Dni Otwartych.
 
 
 ![warsztat](/assets/uploads/image-2-.jpg "Warsztat")
-> Warsztat "czysty" - mieszanka przestrzeni do elektroniki, druku 3D ale również cięższych narzędzi. Jest to również punkt wymiany komponentów elektronicznych - idealne gdy brakuje Ci *właśnie tego* komponentu.
+> *Warsztat "czysty"* - przestrzeń przeznaczona głównie do pracy z elektroniką, jednak nie brak tu innych narzędzi - od spawarki do plastiku po maszynę do szycia! Poza szufladkami z śrubkami i komponentami znajdziesz tutaj współtworzone projekty Hackerspace'u, oraz pudełka członków
 
 
 ![warsztat](/assets/uploads/image-4-.jpg "Warsztat")
-> Warsztat "brudny" - warsztat skupiający się na pracach mechanicznych. Znajduje się tu laser CO^2, drukarki 3D w technologii FDM oraz żywicznej oraz wszelakie narzędzia do majsterkowania w drewnie i metalu. 
+> *Warsztat "brudny"* - warsztat skupiający się na pracach mechanicznych. Znajduje się tu laser CO^2, drukarki 3D w technologii FDM oraz żywicznej oraz wszelakie ciężkie narzędzia do majsterkowania w drewnie i metalu. 
 
 
 ![cowork](/assets/uploads/image-3-.jpg "Cowork")
-> Cowork - z założenia cicha przestrzeń do pracy. Znajduje się tutaj również przestrzeń na rzeczy członków oraz Infrastruktura serwerowa (niestety głośna) na której hostujemy nasze usługi (min. to forum).
+> *Cowork* - z założenia cicha przestrzeń do pracy. Znajduje się tutaj również Infrastruktura serwerowa (niestety głośna) na której hostujemy nasze usługi (min. nasze forum!).
 
 
 \* - Bałagan w zestawie!
 
-**Brzmi fajnie, jak mogę uczestniczyć?**
+# Brzmi fajnie, jak mogę uczestniczyć?
 
-Przede wszystkim - najważniejsze jest dla nas, aby się poznać. Twoim pierwszym krokiem może być przedstawienie się na forum:
+Przede wszystkim - **najważniejsze jest dla nas, aby się poznać**. Twoim pierwszym krokiem może być przedstawienie się na forum:
 
 https://forum.hsp.sh/t/przywitaj-sie-z-hs-pomorze/50
 
-Zachęcamy cię do korzystania z tego Forum oraz udzielania się na naszym oficjalnym komunikatorze - [Discordzie](https://hsp.sh/discord). Na obydwóch platformach znajdziesz kategorie oraz kanały o różnej tematyce, mniej lub bardziej aktywne. Czuj się zaproszony do podnoszenia nowych tematów i uczestniczenia w obecnych. Podziel się z nami swoimi pasjami, a na pewno znajdziemy wspólny język!
+Zachęcamy cię do korzystania z tego Forum oraz udzielania się na naszym oficjalnym komunikatorze - [Discordzie](https://hsp.sh/discord). Na obydwóch platformach znajdziesz kategorie oraz kanały o różnej tematyce, mniej lub bardziej aktywne. Czuj się zaproszony do podnoszenia nowych tematów i uczestniczenia w obecnych. Podziel się z nami swoimi pasjami (i/lub memami), a na pewno znajdziemy wspólny język!
 
-**Dni otwarte i wydarzenia**
+## Dni otwarte i wydarzenia
 
-Wpadaj na dni otwarte w czwartki od 18:00. Jest to dzień gdzie spotykają się członkowie stowarzyszenia oraz nowe osoby, aby porozmawiać, wymienić się doświadczeniami czy popracować nad projektami. 
+Wpadaj na dni otwarte w **czwartki od 18:00**. Jest to dzień, gdzie spotykają się członkowie stowarzyszenia oraz nowe osoby, aby porozmawiać, wymienić się doświadczeniami czy popracować nad projektami. 
 
-Zerkaj również na kanał #broadcast na Discordzie, kategorię #wydarzenia na forum i nasz [kalendarz](https://hsp.sh/calendar) gdzie publikujemy informacje o akcjach które organizujemy.
+Zerkaj również na kanał *#broadcast* na Discordzie, kategorię *#wydarzenia* na forum i nasz [kalendarz](https://hsp.sh/calendar) gdzie publikujemy informacje o akcjach które organizujemy.
 
-**Członkostwo**
+## Członkostwo
 
-Jeżeli podoba ci się idea Hackerspace'u, zapraszamy do formalnego członkostwa w Stowarzyszeniu Hackerspace Pomorze. Członkostwo daje ci nieograniczony dostęp 24/7 do lokalu, oraz decydujący głos w sprawach stowarzyszenia. Będziesz również zaproszony na Zebrania Walne, wedle [statutu](https://hsp.sh/statut).
+Jeżeli podoba ci się idea Hackerspace'u, zapraszamy do formalnego członkostwa w Stowarzyszeniu Hackerspace Pomorze. Członkostwo daje ci **nieograniczony dostęp 24/7 do lokalu, oraz decydujący głos w sprawach stowarzyszenia.** Będziesz również zaproszony na Zebrania Walne, wedle [statutu](https://hsp.sh/statut).
 
-Więcej informacji uzyskasz na stronie [Członkostwa](https://hsp.sh/membership).
+Więcej informacji znajdziesz na stronie [Członkostwa](https://hsp.sh/membership).
 
-**Inne Hackerspejsy**
+### Inne Hackerspejsy
 
-Hackerspace jest ideą ogólnoświatową. W wielu miastach w Polsce i na świecie możesz spotkać się z przestrzeniami o tej samej lub podobnej nazwie, takie jak Makerspace, Hacklab czy nawet FabLab. Każda organizacja jest inna i oferuje inny zestaw doświadczeń.
+**Hackerspace jest ideą ogólnoświatową.** W wielu miastach w Polsce i na świecie możesz spotkać się z przestrzeniami o tej samej lub podobnej nazwie, takie jak Makerspace, Hacklab czy nawet FabLab. Każda organizacja jest inna i oferuje inny zestaw doświadczeń.
 
 Warte wymienienia są, w losowej kolejności:
 
@@ -101,7 +102,7 @@ Pełną i aktualną listę hackerspejsów znajdziesz na [Hackerspace Wiki](https
 
 - - -
 
-**Materiały do czytania**
+## Materiały do czytania
 
 Serdecznie zachęcamy Cię do zapoznania się z następującymi materiałami, które zapoznają cię z szerszą ideą ruchu Hackerskiego:
 
