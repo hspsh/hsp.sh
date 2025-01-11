@@ -23,13 +23,12 @@ Ten artykuł ma rozwiązać wątpliwości czym się zajmujemy oraz pomóc Ci wkr
 
 > First of all: Nie panikuj! Nazywając się Hackerami nie jesteśmy internetowymi rzezimieszkami. Więcej dowiesz się poniżej.
 
-Jak głosi [nasz slogan na stronie WWW](https://hsp.sh), *Hackerspace to miejsce dla osób, którym po prostu się chce!* 
+Jak głosi [nasz slogan na stronie WWW](https://pomorze.hackerspace.pl), *Hackerspace to miejsce dla osób, którym po prostu się chce!* 
 
 **Ale co za tym się kryje?**
 
 Stowarzyszenie Hackerspace Pomorze tworzy społeczność oraz przestrzeń dla pasjonatów na ulicy Do Studzienki 28 w Gdańsku (w pobliżu wydziału ETI Politechniki Gdańskiej). 
 
-<iframe width="625" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=18.55470657348633%2C54.3505037693183%2C18.668003082275394%2C54.39175308509071&amp;layer=mapnik&amp;marker=54.37113360670987%2C18.61135482788086" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=54.3711&amp;mlon=18.6114#map=14/54.3711/18.6114">View Larger Map</a></small>
 
 Tematyka tradycyjnie pokrywa się z szeroko pojętym IT, Linuxem, programowaniem, Sztuczną Inteligencją, Security, Open Source, Open Hardware, elektroniką oraz "nowoczesnymi" technologiami. W wolnych chwilach rozmawiamy o eksploracji kosmosu, nowinkach z świata nauki czy filozofii. Jesteśmy również otwarci na, oraz wspieramy działania społeczne, kulturalne i artystyczne. Oferujemy wsparcie i doświadczenie przy realizacji projektów, wydarzeń, hackatonów czy większych akcji w tych dziedzinach.
 
@@ -42,28 +41,22 @@ Organizacyjnie stosujemy zasady [Dookracji](https://communitywiki.org/wiki/DoOcr
 
 W skrócie, jeżeli chcesz coś zmienić np. w lokalu, możesz to zrobić tak długo jak zmiana jest łatwo odwracalna. Do większych zmian będziesz potrzebował zgody społeczności uzyskanej na Spotkaniach Organizacyjnych odbywających się co 2 tygodnie. 
 
-Na takich zasadach rozwijamy nasz warsztat, tworząc 3 przestrzenie:
+Na takich zasadach rozwijamy nasz Hackerspace, tworząc 4 przestrzenie:
 
 ![chillroom](/assets/uploads/image-1-.jpg "chillroom")
-
-Chillroom - przestrzeń do odpoczynku z strefą gastro, grami planszowymi oraz TV. Tutaj relaksujemy się i rozmawiamy w trakcie Dni Otwartych.
-
-
-
+> Chillroom - przestrzeń do odpoczynku z strefą gastro, grami planszowymi oraz TV. Tutaj relaksujemy się i rozmawiamy w trakcie Dni Otwartych.
 
 
 ![warsztat](/assets/uploads/image-2-.jpg "Warsztat")
-
-Warsztat - mieszanka przestrzeni do elektroniki, druku 3D ale również cięższych narzędzi. Jest to również punkt wymiany komponentów elektronicznych - idealne gdy brakuje Ci *właśnie tego* komponentu.
-
+> Warsztat "czysty" - mieszanka przestrzeni do elektroniki, druku 3D ale również cięższych narzędzi. Jest to również punkt wymiany komponentów elektronicznych - idealne gdy brakuje Ci *właśnie tego* komponentu.
 
 
+![warsztat](/assets/uploads/image-4-.jpg "Warsztat")
+> Warsztat "brudny" - warsztat skupiający się na pracach mechanicznych. Znajduje się tu laser CO^2, drukarki 3D w technologii FDM oraz żywicznej oraz wszelakie narzędzia do majsterkowania w drewnie i metalu. 
 
 
 ![cowork](/assets/uploads/image-3-.jpg "Cowork")
-
-Cowork - z założenia cicha przestrzeń do pracy. Znajduje się tutaj również przestrzeń na rzeczy członków oraz Infrastruktura serwerowa (niestety głośna) na której hostujemy nasze usługi (min. to forum).
-
+> Cowork - z założenia cicha przestrzeń do pracy. Znajduje się tutaj również przestrzeń na rzeczy członków oraz Infrastruktura serwerowa (niestety głośna) na której hostujemy nasze usługi (min. to forum).
 
 
 \* - Bałagan w zestawie!
@@ -80,11 +73,11 @@ Zachęcamy cię do korzystania z tego Forum oraz udzielania się na naszym oficj
 
 Wpadaj na dni otwarte w czwartki od 18:00. Jest to dzień gdzie spotykają się członkowie stowarzyszenia oraz nowe osoby, aby porozmawiać, wymienić się doświadczeniami czy popracować nad projektami. 
 
-Zerkaj również na kanał #broadcast i nasz [kalendarz](https://hsp.sh/calendar) gdzie publikujemy informacje o akcjach które organizujemy.
+Zerkaj również na kanał #broadcast na Discordzie, kategorię #wydarzenia na forum i nasz [kalendarz](https://hsp.sh/calendar) gdzie publikujemy informacje o akcjach które organizujemy.
 
 **Członkostwo**
 
-Jeżeli podoba ci się idea Hackerspace'u, zapraszamy do formalnego członkostwa w Stowarzyszeniu Hackerspace Pomorze. Członkostwo daje ci nieograniczony dostęp 24/7 do lokalu, oraz decydujący głos w sprawach stowarzyszenia. Będziesz również zaproszony na Zebrania Walne, wedle [statutu](/statut).
+Jeżeli podoba ci się idea Hackerspace'u, zapraszamy do formalnego członkostwa w Stowarzyszeniu Hackerspace Pomorze. Członkostwo daje ci nieograniczony dostęp 24/7 do lokalu, oraz decydujący głos w sprawach stowarzyszenia. Będziesz również zaproszony na Zebrania Walne, wedle [statutu](https://hsp.sh/statut).
 
 Więcej informacji uzyskasz na stronie [Członkostwa](https://hsp.sh/membership).
 
@@ -120,4 +113,4 @@ Serdecznie zachęcamy Cię do zapoznania się z następującymi materiałami, kt
 * [Eric S. Raymond: Jak zostać hackerem? (PL)](https://web.archive.org/web/20060701154700/http://sokrates.mimuw.edu.pl:80/~sebek/hacker-howto.html), [(ENG)](http://catb.org/~esr/faqs/hacker-howto.html)
 * Wikipedia: [Hackerspace](https://pl.wikipedia.org/wiki/Hackerspace), [Społeczność Hackerów](https://pl.wikipedia.org/wiki/Spo%C5%82eczno%C5%9B%C4%87_haker%C3%B3w), [Hacker Ethos](https://en.wikipedia.org/wiki/Hacker_ethic)
 * [Hackerspace Wiki](https://wiki.hackerspaces.org/Poland).
-* Nasze Wiki: https://wiki.hsp.sh
+* Nasze Wiki: https://docs.hsp.sh
