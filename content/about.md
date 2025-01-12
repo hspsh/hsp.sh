@@ -25,7 +25,7 @@ Ten artykuł ma rozwiązać wątpliwości czym się zajmujemy oraz pomóc Ci wkr
 
 > First of all: Nie panikuj! Nazywając się Hackerami nie jesteśmy internetowymi rzezimieszkami. Więcej dowiesz się poniżej.
 
-Jak głosi [nasz slogan na stronie WWW](https://pomorze.hackerspace.pl), *Hackerspace to miejsce dla osób, którym po prostu się chce!* 
+Jak głosi [nasz slogan na stronie WWW](https://hsp.sh), *Hackerspace to miejsce dla osób, którym po prostu się chce!* 
 
 ### Ale co się za tym kryje?
 
@@ -57,10 +57,8 @@ Organizacyjnie stosujemy zasady **[Dookracji](https://communitywiki.org/wiki/DoO
 
 
 ![cowork](/assets/uploads/image-3-.jpg "Cowork")
-> *Cowork* - z założenia cicha przestrzeń do pracy. Znajduje się tutaj również Infrastruktura serwerowa (niestety głośna) na której hostujemy nasze usługi (min. nasze forum!).
+> *Cowork* - z założenia cicha przestrzeń do pracy. Znajduje się tutaj również nasza infrastruktura (wraz z kojącym szumem serwerów) na której hostujemy nasze usługi (min. nasze forum!).
 
-
-\* - Bałagan w zestawie!
 
 # Brzmi fajnie, jak mogę uczestniczyć?
 
