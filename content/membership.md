@@ -21,7 +21,9 @@ Aby uzyskać członkostwo, należy:
 4. Dostarczyć deklarację do [Zarządu](/contact) rozpoczynając oficjalny proces przyjęcia do stowarzyszenia.
 5. Członkiem zostaje się po akceptacji Zarządu, bez sprzeciwu członków, i opłaceniu składki.  
     - Tydzień przed głosowaniem Zarząd informuje członków HSP o kandydacie czekając na potencjalne obiekcje.
-6. Okres przejściowy - klucze do lokalu można uzyskać najwcześniej miesiąc po złożeniu deklaracji członkowskiej na ręce członka Zarządu.
+6. Okres przejściowy: Klucze do lokalu można uzyskać najwcześniej miesiąc po złożeniu deklaracji członkowskiej na ręce członka Zarządu oraz po opłaceniu co najmniej dwóch składek - potwierdzając ich cykliczność.
+
+Zostałeś członkiem? Rozejrzyj się po naszej procedurze wchodzenia na pokład: https://docs.hsp.sh/onboarding
 
 Jeśli masz firmę lub fajnego szefa, który potencjalnie chciałby nas wesprzeć, daj nam znać, jesteśmy otwarci na współpracę.
 
