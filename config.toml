@@ -15,3 +15,51 @@ description = "Hackerspace to miejsce dla osób, którym po prostu się chce!"
     name = "Blog"
     url = "/blog/"
     weight = 15
+
+  [[menu.secondary]]
+    identifier = "auth"
+    name = "Zaloguj Się"
+    url = "https://auth.hsp.sh/"
+    weight = 15
+
+  [[menu.services]]
+    identifier = "wiki"
+    name = "Wiki"
+    url = "https://docs.hsp.sh"
+    weight = 15
+  
+  [[menu.services]]
+    identifier = "git"
+    name = "Wiki"
+    url = "https://hsp.sh/github"
+    weight = 15
+
+  [[menu.services]]
+    identifier = "auth"
+    name = "Zaloguj Się"
+    url = "https://auth.hsp.sh/"
+    weight = 15
+
+  [[menu.services]]
+    identifier = "at"
+    name = "Who is at hackerspace?"
+    url = "https://at.hsp.sh/"
+    weight = 15
+
+  [[menu.social]]
+    identifier = "fb"
+    name = "Facebook"
+    url = "https://hsp.sh/facebook"
+    weight = 15
+
+  [[menu.social]]
+    identifier = "ig"
+    name = "Instagram"
+    url = "https://hsp.sh/instagram"
+    weight = 15
+    
+  [[menu.social]]
+    identifier = "mstdn"
+    name = "Mastodon"
+    url = "https://hsp.sh/mastodon"
+    weight = 15
