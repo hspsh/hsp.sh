@@ -11,7 +11,11 @@
   
 [[redirects]] 
   from = "/facebook"
-  to = "https://www.facebook.com/Hackerspace-Pomorze-103254931521373/"
+  to = "https://www.facebook.com/hspomorze"
+
+[[redirects]] 
+  from = "/instagram"
+  to = "https://www.instagram.com/hspomorze/"
   
 [[redirects]]   
   from = "/twitter"
