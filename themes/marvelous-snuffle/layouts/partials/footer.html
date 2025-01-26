@@ -6,7 +6,9 @@
             <a href="https://github.com/hspsh/hsp.sh/issues">Zgłoś błąd.</a>
         </p>
         <p>
-            {{< socials >}}
+            {{- range .Site.Menus.social -}}
+            <a rel="me" href="{{ .URL }}" title="{{ .Name }}">{{ .Identifier }}</a>
+            {{- end }}
         </p>
     </section>
 </footer>
