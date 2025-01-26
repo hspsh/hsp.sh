@@ -20,7 +20,7 @@ description = "Hackerspace to miejsce dla osób, którym po prostu się chce!"
     identifier = "wiki"
     name = "Wiki"
     url = "https://docs.hsp.sh"
-    weight = 15
+    weight = 10
 
   [[menu.services]]
     identifier = "forum"
@@ -32,25 +32,25 @@ description = "Hackerspace to miejsce dla osób, którym po prostu się chce!"
     identifier = "git"
     name = "Git"
     url = "https://hsp.sh/github"
-    weight = 15
+    weight = 20
 
   [[menu.services]]
     identifier = "at"
     name = "Whois"
     url = "https://at.hsp.sh/"
-    weight = 15
+    weight = 25
     
   [[menu.services]]
     identifier = "auth"
     name = "Zaloguj Się"
     url = "https://auth.hsp.sh/"
-    weight = 15
+    weight = 30
 
   [[menu.social]]
     identifier = "fb"
     name = "Facebook"
     url = "https://hsp.sh/facebook"
-    weight = 15
+    weight = 10
 
   [[menu.social]]
     identifier = "ig"
@@ -62,4 +62,4 @@ description = "Hackerspace to miejsce dla osób, którym po prostu się chce!"
     identifier = "mstdn"
     name = "Mastodon"
     url = "https://hsp.sh/mastodon"
-    weight = 15
+    weight = 20
