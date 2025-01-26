@@ -16,6 +16,10 @@
 [[redirects]] 
   from = "/instagram"
   to = "https://www.instagram.com/hspomorze/"
+
+[[redirects]] 
+  from = "/mastodon"
+  to = "https://0x3c.pl/@hspsh"
   
 [[redirects]]   
   from = "/twitter"
