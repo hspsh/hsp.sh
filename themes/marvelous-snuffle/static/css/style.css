@@ -313,3 +313,9 @@ main {
     color           : var(--accent);
     border-color    : var(--accent);
 }
+
+.sponsors {
+    img {
+        max-height: 64px;
+    }
+}
