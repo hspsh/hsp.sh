@@ -5,6 +5,10 @@
         <p>Nie działa?
             <a href="https://github.com/hspsh/hsp.sh/issues">Zgłoś błąd.</a>
         </p>
-        <p id="whois"></p>
+        <p>
+            {{- range .Site.Menus.social -}}
+            <a rel="me" href="{{ .URL }}" title="{{ .Name }}">{{ .Name }} </a>
+            {{- end }}
+        </p>
     </section>
 </footer>

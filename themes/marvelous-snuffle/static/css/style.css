@@ -81,8 +81,6 @@ header nav a:last-child::after {
 }
 
 footer {
-    font-weight     : 100;
-    font-size       : 13px;
     background-color: var(--accent-bg);
     margin-top      : auto;
 }
