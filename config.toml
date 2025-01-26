@@ -25,7 +25,7 @@ description = "Hackerspace to miejsce dla osób, którym po prostu się chce!"
   [[menu.services]]
     identifier = "forum"
     name = "Forum"
-    url = "https://hsp.sh/github"
+    url = "https://forum.hsp.sh"
     weight = 15
     
   [[menu.services]]
