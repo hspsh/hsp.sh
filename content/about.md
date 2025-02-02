@@ -19,7 +19,7 @@ seo:
     kierunków.
 ---
 Pewnie zastanawiasz się... 
-## Co to w ogóle jest hackerspace? 
+# Co to w ogóle jest hackerspace? 
 A może nie jest Ci obce środowisko hakerskie i szukasz własnego spejsu? Jako elektronik, programista czy majsterkowicz skorzystałbyś z warsztatu, w którym mógłbyś realizować swoje pasje? Może zwyczajnie chciałbyś poznać ludzi i poszerzyć swoje horyzonty?
 Ten artykuł ma rozwiązać wątpliwości czym się zajmujemy oraz pomóc Ci wkręcić się w naszą społeczność.
 
@@ -27,7 +27,7 @@ Ten artykuł ma rozwiązać wątpliwości czym się zajmujemy oraz pomóc Ci wkr
 
 Jak głosi [nasz slogan na stronie WWW](https://hsp.sh), *Hackerspace to miejsce dla osób, którym po prostu się chce!* 
 
-### Ale co się za tym kryje?
+## Ale co się za tym kryje?
 
 Stowarzyszenie Hackerspace Pomorze tworzy społeczność oraz przestrzeń dla pasjonatów na ulicy Do Studzienki 28 w Gdańsku (w pobliżu wydziału ETI Politechniki Gdańskiej). 
 
@@ -44,19 +44,19 @@ Organizacyjnie stosujemy zasady **[Dookracji](https://communitywiki.org/wiki/DoO
 
 **W ten sposób rozwijamy nasz Hackerspace, tworząc 4 przestrzenie:**
 
-![chillroom](/assets/uploads/image-1-.jpg "chillroom")
+![chillroom](/assets/uploads/image-1.jpg "chillroom")
 > *Chillroom* - przestrzeń do odpoczynku połączona z kuchnią; Z grami planszowymi, konsolami, TV i Mate na wyposażeniu. Tutaj relaksujemy się i rozmawiamy w trakcie Dni Otwartych.
 
 
-![warsztat](/assets/uploads/image-2-.jpg "Warsztat")
+![warsztat](/assets/uploads/image-2.jpg "Warsztat")
 > *Warsztat "czysty"* - przestrzeń przeznaczona głównie do pracy z elektroniką, jednak nie brak tu innych narzędzi - od spawarki do plastiku po maszynę do szycia! Poza szufladkami z śrubkami i komponentami znajdziesz tutaj współtworzone projekty Hackerspace'u, oraz pudełka członków
 
 
-![warsztat](/assets/uploads/image-4-.jpg "Warsztat")
+![warsztat](/assets/uploads/image-4.jpg "Warsztat")
 > *Warsztat "brudny"* - warsztat skupiający się na pracach mechanicznych. Znajduje się tu laser CO^2, drukarki 3D w technologii FDM oraz żywicznej oraz wszelakie ciężkie narzędzia do majsterkowania w drewnie i metalu. 
 
 
-![cowork](/assets/uploads/image-3-.jpg "Cowork")
+![cowork](/assets/uploads/image-3.jpg "Cowork")
 > *Cowork* - z założenia cicha przestrzeń do pracy. Znajduje się tutaj również nasza infrastruktura (wraz z kojącym szumem serwerów) na której hostujemy nasze usługi (min. nasze forum!).
 
 
@@ -80,21 +80,22 @@ Jeżeli podoba ci się idea Hackerspace'u, zapraszamy do formalnego członkostwa
 
 Więcej informacji znajdziesz na stronie [Członkostwa](https://hsp.sh/membership).
 
-### Inne Hackerspejsy
+## Inne Hackerspejsy
 
 **Hackerspace jest ideą ogólnoświatową.** W wielu miastach w Polsce i na świecie możesz spotkać się z przestrzeniami o tej samej lub podobnej nazwie, takie jak Makerspace, Hacklab czy nawet FabLab. Każda organizacja jest inna i oferuje inny zestaw doświadczeń.
 
 Warte wymienienia są, w losowej kolejności:
 
-* [Hackerspace Trójmiasto](https://hs3.pl)
-* [FabLab Trójmiasto](https://www.facebook.com/FabLabT/)
-* [CUMY Makerspace Gdańsk](https://www.facebook.com/cumy.stocznia)
 * [Hackerspace Warszawa](https://hackerspace.pl)
 * [Hackerspace Kraków](https://hackerspace-krk.pl)
 * [Hackerspace Wrocław](https://hswro.org)
 * [Hackerspace Łódź](https://lodz.hackerspace.pl)
+* ["Knyfyrtel" Hackerspace Poznań](https://hspoz.pl/)
+* [Hackerspace Trójmiasto](https://hs3.pl)
+* [FabLab Gdańsk](https://fablab.gdansk.pl/)
+* [FabLab Trójmiasto](https://fablabt.org)
 
-Pełną i aktualną listę hackerspejsów znajdziesz na [Hackerspace Wiki](https://wiki.hackerspaces.org/Poland).
+Pełną i aktualną listę hackerspejsów na całym świecie znajdziesz na [Hackerspace Wiki](https://wiki.hackerspaces.org/Poland). Zerknij również na [Wikipedię](https://pl.wikipedia.org/wiki/Hackerspace).
 
 {{< memberCall >}}
 
@@ -104,12 +105,10 @@ Pełną i aktualną listę hackerspejsów znajdziesz na [Hackerspace Wiki](https
 
 Serdecznie zachęcamy Cię do zapoznania się z następującymi materiałami, które zapoznają cię z szerszą ideą ruchu Hackerskiego:
 
-* Przede wszystkim: [Statut Stowarzyszenia Hackerspace Pomorze](https://hsp.sh/statut)
-* [Regulamin](https://docs.hsp.sh/regulamin)
-* [Dookracja](https://communitywiki.org/wiki/DoOcracy)
+* Przede wszystkim: [Statut Stowarzyszenia Hackerspace Pomorze](https://hsp.sh/statut), [Regulamin](https://docs.hsp.sh/regulamin) oraz nasze Wiki: https://docs.hsp.sh
 * [Hackerspace Blueprint: A guide on how to run a Hackerspace](https://hackerspace.design/)
-* [Hackerspace Design (Anti-)Patterns](https://wiki.hackerspaces.org/Design_Patterns), [(Video tutaj)](https://www.youtube.com/watch?v=RPUSQBXBrtk).
 * [Eric S. Raymond: Jak zostać hackerem? (PL)](https://web.archive.org/web/20060701154700/http://sokrates.mimuw.edu.pl:80/~sebek/hacker-howto.html), [(ENG)](http://catb.org/~esr/faqs/hacker-howto.html)
+* [Hackerspace Design (Anti-)Patterns](https://wiki.hackerspaces.org/Design_Patterns), [(Video tutaj)](https://www.youtube.com/watch?v=RPUSQBXBrtk).
+* [Czym jest Dookracja?](https://communitywiki.org/wiki/DoOcracy)
 * Wikipedia: [Hackerspace](https://pl.wikipedia.org/wiki/Hackerspace), [Społeczność Hackerów](https://pl.wikipedia.org/wiki/Spo%C5%82eczno%C5%9B%C4%87_haker%C3%B3w), [Hacker Ethos](https://en.wikipedia.org/wiki/Hacker_ethic)
 * [Hackerspace Wiki](https://wiki.hackerspaces.org/Poland).
-* Nasze Wiki: https://docs.hsp.sh
