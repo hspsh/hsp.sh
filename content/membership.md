@@ -39,8 +39,18 @@ Jeśli masz firmę lub fajnego szefa, który potencjalnie chciałby nas wesprze�
 ```
 Stowarzyszenie Hackerspace Pomorze
 Stefana Miraua 10/6, 80-318 Gdańsk
-Nr rachunku: 50 1600 1459 1890 5449 3000 0001
-IBAN: PL50 1600 1459 1890 5449 3000 0001
-BIC/SWIFT: PPABPLPK
-Tytułem: "Darowizna na cele statutowe" lub "Składka [Imię] [Nazwisko]"
+
+Nr rachunku:
+50 1600 1459 1890 5449 3000 0001
+
+IBAN:
+PL50 1600 1459 1890 5449 3000 0001
+
+BIC/SWIFT:
+PPABPLPK
+
+Tytułem:
+"Darowizna na cele statutowe"
+lub
+"Składka [Imię] [Nazwisko]"
 ```

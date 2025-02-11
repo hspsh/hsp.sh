@@ -51,15 +51,18 @@ description = "Hackerspace to miejsce dla osób, którym po prostu się chce!"
     name = "Facebook"
     url = "https://hsp.sh/facebook"
     weight = 10
+    params = { icon = "lab la-facebook" }
 
   [[menu.social]]
     identifier = "ig"
     name = "Instagram"
     url = "https://hsp.sh/instagram"
     weight = 15
+    params = { icon = "lab la-instagram" }
     
   [[menu.social]]
     identifier = "mstdn"
     name = "Mastodon"
     url = "https://hsp.sh/mastodon"
     weight = 20
+    params = { icon = "lab la-mastodon" }
