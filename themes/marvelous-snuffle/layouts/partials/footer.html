@@ -5,9 +5,9 @@
         <p>Nie działa?
             <a href="https://github.com/hspsh/hsp.sh/issues">Zgłoś błąd.</a>
         </p>
-        <p>
+        <p class="social-icons">
             {{- range .Site.Menus.social -}}
-            <a rel="me" href="{{ .URL }}" title="{{ .Name }}">{{ .Name }} </a>
+            <a rel="me" href="{{ .URL }}" title="{{ .Name }}" style="font-size: 2em;"><i class="{{ .Params.icon }}"></i></a>
             {{- end }}
         </p>
     </section>

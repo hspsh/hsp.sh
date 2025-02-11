@@ -1,8 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
 /* ============================================================= COLORS ** ============================================================= */
 :root {
 
     /* Set sans-serif & mono fonts */
-    --sans-font: -apple-system, BlinkMacSystemFont, "Avenir Next", Avenir, "Nimbus Sans L", Roboto, Noto, "Segoe UI", Arial, Helvetica, "Helvetica Neue", sans-serif;
+    /* --sans-font: -apple-system, BlinkMacSystemFont, "Avenir Next", Avenir, "Nimbus Sans L", Roboto, Noto, "Segoe UI", Arial, Helvetica, "Helvetica Neue", sans-serif; */
+    --sans-font: "Nunito Sans", sans-serif;
     --mono-font: Consolas, Menlo, Monaco, "Andale Mono", "Ubuntu Mono", monospace;
 
     /* Body font size. By default, effectively 18.4px, based on 16px as 'root em' */
@@ -45,9 +47,20 @@
     }
 } */
 
+a {
+    text-decoration: none;
+    color: var(--accent);
+
+}
+
+a:hover {
+    color: var(--accent-light);
+    text-decoration: underline;
+}
 
 header {
     padding: 1em 1em;
+    text-align: center;
 }
 
 .nav img {
@@ -56,80 +69,98 @@ header {
 }
 
 header nav {
-    text-transform         : lowercase;
-    display                : inline;
-    display-color          : white;
-    display-text-decoration: none !important;
+    text-transform: lowercase;
+    display: inline-block;
+    font-family: var(--mono-font);
+    margin: 0 auto;
 }
 
 header nav a::after {
     content: "\00a0|\00a0";
-    color  : #0c9;
+    color  : var(--text);
     display: inline-block;
 }
 
 header nav a:first-child::before {
     content: "[\00a0";
-    color  : #0c9;
+    color  : var(--text);
     display: inline-block;
 }
 
 header nav a:last-child::after {
     content: "\00a0]";
-    color  : #0c9;
+    color  : var(--text);
     display: inline-block;
+}
+
+@media screen and (max-width: 600px) {
+    header nav {
+        display: flex;
+        flex-direction: column;
+        gap: 0.5em;
+    }
+
+    header nav a::after,
+    header nav a:first-child::before,
+    header nav a:last-child::after {
+        display: none;
+    }
+
+    header nav a {
+        padding: 0.5em;
+        border: 1px solid var(--text);
+    }
+
+    header nav a:hover {
+        border-color: var(--accent);
+    }
+}
+
+h1 {
+    font-family: var(--mono-font);
 }
 
 footer {
     background-color: var(--accent-bg);
     margin-top      : auto;
-}
+    font-family: var(--mono-font);
 
-footer .footer__navigation {
-    display    : flex;
-    align-items: center;
-}
+    .footer__notice {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+        background-color: #212121;
+        gap: 1em;
+        padding: 1em;
 
-footer .footer__navigation .socials {
-    margin-left: auto;
-}
-
-footer .footer__navigation nav>a {
-    margin-left: 20px;
-}
-
-footer .footer__navigation a {
-    text-decoration: none;
-}
-
-footer section {
-    padding: 1em 3em;
-}
-
-footer .footer__notice {
-    display         : flex;
-    flex-wrap       : wrap;
-    justify-content : center;
-    background-color: #212121;
+        .social-icons {
+            display: flex;
+            gap: 1em;
+        }
+    }
 }
 
 footer .footer__notice p {
-    display      : inline-block;
-    padding-right: 15px;
-    padding-left : 15px;
+    display: inline-block;
+    margin: 0;
+    text-align: center;
 }
 
-footer .footer__notice p:after {
-    content    : "";
-    position   : absolute;
-    height     : 15px;
-    width      : 2px;
-    background : var(--text);
-    margin-left: 15px;
+footer .footer__notice p:not(:last-child)::after {
+    content: " | ";
+    margin: 0 0.5em;
 }
 
-footer .footer__notice p:last-of-type:after {
-    content: none;
+@media screen and (max-width: 600px) {
+    footer .footer__notice {
+        flex-direction: column;
+        gap: 0.5em;
+    }
+
+    footer .footer__notice p:not(:last-child)::after {
+        display: none;
+    }
 }
 
 .alert {
@@ -214,8 +245,10 @@ footer .footer__notice p:last-of-type:after {
     width      : auto;
 }
 
-* {
-    font-family: sans-serif;
+body {
+    font-family: var(--sans-font);
+    line-height: var(--line-height);
+    font-size: var(--base-fontsize);
 }
 
 body {
@@ -227,19 +260,6 @@ body {
     min-height      : 100vh;
     background-size : 800px;
     fill            : #212121;
-}
-
-a {
-    color          : var(--text);
-    text-decoration: underline;
-}
-
-a:hover {
-    color: #0c9;
-}
-
-a:active {
-    color: #0c9;
 }
 
 ::selection {
@@ -273,31 +293,48 @@ main {
 }
 
 .action-buttons {
-    display       : flex;
-    flex-direction: row;
-    gap           : 1em;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 1em;
+
+    &.full-width {
+        display: block;
+    } 
 }
 
-.action-btn {
-    display        : block;
-    border         : 1px solid var(--text);
-    background     : var(--accent-bg);
-    padding        : 0.5em;
-    width          : 100%;
+@media screen and (max-width: 600px) {
+    .action-buttons {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+a.action-btn {
+    display: block;
+    border: 1px solid var(--text);
+    background: var(--accent-bg);
+    padding: 0.5em;
     text-decoration: none;
-    text-align     : center;
-    /* grid-column : 1;
-    grid-row       : 1; */
+    text-align: center;
+    font-family: var(--mono-font);
 }
 
 .action-btn:hover {
-    color       : #0c9;
-    border-color: #0c9;
+    border-color: var(--accent-light);
+    color: var(--accent-light);
+
+    span {
+        text-decoration: underline;
+    }
+
+    i {
+        color: var(--accent-light);
+    }
 }
 
 .action-btn i {
     font-size: 3em;
     display  : block;
+    color: var(--text);
 }
 
 .door.action-btn.open {
@@ -313,7 +350,27 @@ main {
 }
 
 .sponsors {
+    background-color: var(--accent-bg);
+    padding: 2em;
+    display: flex;
+    justify-content: center;
+    gap: 2em;
+    flex-wrap: wrap;
+
+    a {
+        display: flex;
+        align-items: center;
+        width: 200px;
+        justify-content: center;
+    }
+
     img {
         max-height: 64px;
+        max-width: 100%;
+        width: auto;
+
+        &:hover {
+            opacity: 0.8;
+        }
     }
 }
