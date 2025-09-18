@@ -16,6 +16,12 @@ description = "Hackerspace to miejsce dla osób, którym po prostu się chce!"
     url = "/blog/"
     weight = 15
 
+  [[menu.main]]
+    identifier = "Wsparcie"
+    name = "Wsparcie"
+    url = "/donate/"
+    weight = 20
+
   [[menu.services]]
     identifier = "wiki"
     name = "Wiki"
