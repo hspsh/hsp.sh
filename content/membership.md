@@ -28,3 +28,29 @@ Członkostwo również wiąże się z obowiązkiem wsparciem Stowarzyszenia w fo
 # Zostałem członkiem. Co dalej?
 
 Zapoznaj się z treścią naszej Wiki, gdzie znajdziesz [materiały dla nowych członków.](https://docs.hsp.sh/en/new-member)
+
+# Wsparcie
+
+Jeżeli chcesz wesprzeć działalność naszego Stowarzyszenia oraz jego [cele statutowe](/statut), zachęcamy do wpłaty darowizny na nasze konto.
+Jeśli masz firmę lub fajnego szefa, który potencjalnie chciałby nas wesprzeć, daj nam znać, jesteśmy otwarci na współpracę.
+
+## Dane do przelewu
+
+```
+Stowarzyszenie Hackerspace Pomorze
+Stefana Miraua 10/6, 80-318 Gdańsk
+
+Nr rachunku:
+50 1600 1459 1890 5449 3000 0001
+
+IBAN:
+PL50 1600 1459 1890 5449 3000 0001
+
+BIC/SWIFT:
+PPABPLPK
+
+Tytułem:
+"Darowizna na cele statutowe"
+lub
+"Składka [Imię] [Nazwisko]"
+```
