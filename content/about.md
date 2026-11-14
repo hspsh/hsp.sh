@@ -19,13 +19,12 @@ seo:
     kierunków.
 ---
 Pewnie zastanawiasz się... 
-# Co to w ogóle jest hackerspace? 
+# Co to jest hackerspace?
+
 A może nie jest Ci obce środowisko hakerskie i szukasz własnego spejsu? Jako elektronik, programista czy majsterkowicz skorzystałbyś z warsztatu, w którym mógłbyś realizować swoje pasje? Może zwyczajnie chciałbyś poznać ludzi i poszerzyć swoje horyzonty?
 Ten artykuł ma rozwiązać wątpliwości czym się zajmujemy oraz pomóc Ci wkręcić się w naszą społeczność.
 
 > First of all: Nie panikuj! Nazywając się Hackerami nie jesteśmy internetowymi rzezimieszkami. Więcej dowiesz się poniżej.
-
-Jak głosi [nasz slogan na stronie WWW](https://hsp.sh), *Hackerspace to miejsce dla osób, którym po prostu się chce!* 
 
 ## Ale co się za tym kryje?
 
