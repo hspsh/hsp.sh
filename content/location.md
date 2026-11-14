@@ -21,7 +21,7 @@ Lokal nr 6, na samym końcu korytarza.
 Jeśli nadal masz problem z wejściem:
 
 * Wołaj ludzi na kanale #drzwi  
-* Zadzwoń pod numer <i class="las la-phone"></i> 58 717 45 45
+* Zadzwoń pod numer [58 717 45 45](tel:587174545)
 
 Nawigacja:
 <!-- [-> jak dojechać](/commute)   -->
